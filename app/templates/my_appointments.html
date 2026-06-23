@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Appointments - MedApp</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background-color: #f0f2f8;
+            font-family: 'Segoe UI', sans-serif;
+        }
+        .navbar {
+            background-color: #2d3fd3;
+            padding: 15px 30px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .navbar-brand {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: white;
+            font-size: 20px;
+            font-weight: 700;
+            text-decoration: none;
+        }
+        .logo-icon {
+            width: 35px;
+            height: 35px;
+            background: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #2d3fd3;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .navbar-links { display: flex; gap: 15px; align-items: center; }
+        .navbar-links a {
+            color: white;
+            text-decoration: none;
+            font-size: 14px;
+            padding: 8px 16px;
+            border-radius: 8px;
+        }
+        .navbar-links a:hover { background: rgba(255,255,255,0.2); }
+        .navbar-links .logout {
+            background: rgba(255,255,255,0.2);
+            border: 1px solid rgba(255,255,255,0.4);
+        }
+        .container {
+            max-width: 1100px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        .page-title {
+            font-size: 22px;
+            color: #1a1a2e;
+            font-weight: 700;
+            margin-bottom: 20px;
+        }
+        .table-card {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        thead {
+            background-color: #2d3fd3;
+            color: white;
+        }
+        thead th {
+            padding: 12px 15px;
+            font-size: 13px;
+            font-weight: 600;
+            text-align: left;
+        }
+        tbody tr {
+            border-bottom: 1px solid #f0f0f0;
+        }
+        tbody tr:hover {
+            background-color: #f8f9ff;
+        }
+        tbody td {
+            padding: 12px 15px;
+            font-size: 13px;
+            color: #444;
+        }
+        .status-pending {
+            background: #fff3cd;
+            color: #856404;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        .status-confirmed {
+            background: #d1e7dd;
+            color: #0f5132;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        .status-cancelled {
+            background: #f8d7da;
+            color: #842029;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        .btn-cancel {
+            background: #f8d7da;
+            color: #842029;
+            border: none;
+            border-radius: 6px;
+            padding: 5px 12px;
+            font-size: 12px;
+            font-weight: 600;
+            text-decoration: none;
+            margin-right: 5px;
+        }
+        .btn-reschedule {
+            background: #d1e7dd;
+            color: #0f5132;
+            border: none;
+            border-radius: 6px;
+            padding: 5px 12px;
+            font-size: 12px;
+            font-weight: 600;
+            text-decoration: none;
+        }
+        .no-appointments {
+            text-align: center;
+            color: #888;
+            font-size: 14px;
+            padding: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navbar -->
+<div class="navbar">
+    <a href="/patient_dashboard" class="navbar-brand">
+        <div class="logo-icon">M</div>
+        MedApp
+    </a>
+    <div class="navbar-links">
+    <a href="/search_doctors">Search Doctors</a>
+    <a href="/my_appointments">My Appointments</a>
+    <a href="/notifications" style="position:relative;">
+        🔔
+        {% if unread_count > 0 %}
+        <span style="position:absolute; top:-5px; right:-5px; background:red; color:white; border-radius:50%; width:18px; height:18px; font-size:11px; display:flex; align-items:center; justify-content:center;">{{ unread_count }}</span>
+        {% endif %}
+    </a>
+    <a href="/logout" class="logout">Logout</a>
+</div>
+</div>
+
+<!-- Main Content -->
+<div class="container">
+    <p class="page-title">📋 My Appointments</p>
+
+    <div class="table-card">
+        <table>
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Doctor</th>
+                    <th>Date</th>
+                    <th>Time</th>
+                    <th>Status</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+                <tbody>
+    {% if appointments %}
+        {% for appointment in appointments %}
+        <tr>
+            <td>{{ loop.index }}</td>
+            <td>{{ appointment[1] }}</td>
+            <td>{{ appointment[2] }}</td>
+            <td>{{ appointment[3] }}</td>
+            <td>
+                {% if appointment[4] == 'pending' %}
+                    <span class="status-pending">Pending</span>
+                {% elif appointment[4] == 'confirmed' %}
+                    <span class="status-confirmed">Confirmed</span>
+                {% elif appointment[4] == 'cancelled' %}
+                    <span class="status-cancelled">Cancelled</span>
+                {% else %}
+                    <span>{{ appointment[4] }}</span>
+                {% endif %}
+            </td>
+            <td>
+<a href="/cancel_appointment/{{ appointment[0] }}" class="btn-cancel" onclick="return confirm('Are you sure you want to cancel this appointment?');">Cancel</a>
+<a href="/reschedule_appointment/{{ appointment[0] }}" class="btn-reschedule">Reschedule</a>
+    {% if appointment[5] %}
+    <a href="/patient_report/{{ appointment[5] }}" 
+       style="background:#2d3fd3; color:white; border-radius:6px; padding:5px 10px; font-size:12px; text-decoration:none; margin-left:5px;">
+       🧬 View Report
+    </a>
+    {% endif %}
+</td>
+        </tr>
+        {% endfor %}
+    {% else %}
+        <tr>
+            <td colspan="6" class="no-data">No appointments found. <a href="/book_appointment">Book one now!</a></td>
+        </tr>
+    {% endif %}
+</tbody>
+        </table>
+    </div>
+</div>
+
+</body>
+</html>

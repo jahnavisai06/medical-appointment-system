@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Manage Patients - MedApp</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background-color: #f0f2f8;
+            font-family: 'Segoe UI', sans-serif;
+        }
+        .navbar {
+            background-color: #1a1a2e;
+            padding: 15px 30px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .navbar-brand {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: white;
+            font-size: 20px;
+            font-weight: 700;
+            text-decoration: none;
+        }
+        .logo-icon {
+            width: 35px;
+            height: 35px;
+            background: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #1a1a2e;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .navbar-links { display: flex; gap: 15px; align-items: center; }
+        .navbar-links a {
+            color: white;
+            text-decoration: none;
+            font-size: 14px;
+            padding: 8px 16px;
+            border-radius: 8px;
+        }
+        .navbar-links a:hover { background: rgba(255,255,255,0.2); }
+        .navbar-links .logout {
+            background: rgba(255,255,255,0.2);
+            border: 1px solid rgba(255,255,255,0.4);
+        }
+        .container {
+            max-width: 1100px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        .page-title {
+            font-size: 22px;
+            color: #1a1a2e;
+            font-weight: 700;
+            margin-bottom: 20px;
+        }
+        .table-card {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        thead {
+            background-color: #1a1a2e;
+            color: white;
+        }
+        thead th {
+            padding: 12px 15px;
+            font-size: 13px;
+            font-weight: 600;
+            text-align: left;
+        }
+        tbody tr { border-bottom: 1px solid #f0f0f0; }
+        tbody tr:hover { background-color: #f8f9ff; }
+        tbody td {
+            padding: 12px 15px;
+            font-size: 13px;
+            color: #444;
+        }
+        .no-data {
+            text-align: center;
+            color: #888;
+            font-size: 14px;
+            padding: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navbar -->
+<div class="navbar">
+    <a href="/admin_dashboard" class="navbar-brand">
+        <div class="logo-icon">M</div>
+        MedApp Admin
+    </a>
+    <div class="navbar-links">
+        <a href="/admin_doctors">Doctors</a>
+        <a href="/admin_patients">Patients</a>
+        <a href="/admin_appointments">Appointments</a>
+        <a href="/logout" class="logout">Logout</a>
+    </div>
+</div>
+
+<!-- Main Content -->
+<div class="container">
+    <p class="page-title">👤 Manage Patients</p>
+
+    <div class="table-card">
+        <table>
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                </tr>
+            </thead>
+                <tbody>
+    {% if patients %}
+        {% for patient in patients %}
+        <tr>
+            <td>{{ loop.index }}</td>
+            <td>{{ patient[1] }}</td>
+            <td>{{ patient[2] }}</td>
+            <td>{{ patient[4] }}</td>
+        </tr>
+        {% endfor %}
+    {% else %}
+        <tr>
+            <td colspan="4" class="no-data">No patients registered yet.</td>
+        </tr>
+    {% endif %}
+</tbody>
+                
+        </table>
+    </div>
+</div>
+
+</body>
+</html>

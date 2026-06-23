@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Doctor - MedApp</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background-color: #f0f2f8;
+            font-family: 'Segoe UI', sans-serif;
+        }
+        .navbar {
+            background-color: #1a1a2e;
+            padding: 15px 30px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .navbar-brand {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: white;
+            font-size: 20px;
+            font-weight: 700;
+            text-decoration: none;
+        }
+        .logo-icon {
+            width: 35px;
+            height: 35px;
+            background: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #1a1a2e;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .navbar-links { display: flex; gap: 15px; align-items: center; }
+        .navbar-links a {
+            color: white;
+            text-decoration: none;
+            font-size: 14px;
+            padding: 8px 16px;
+            border-radius: 8px;
+        }
+        .navbar-links a:hover { background: rgba(255,255,255,0.2); }
+        .navbar-links .logout {
+            background: rgba(255,255,255,0.2);
+            border: 1px solid rgba(255,255,255,0.4);
+        }
+        .container {
+            max-width: 600px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        .form-card {
+            background: white;
+            border-radius: 15px;
+            padding: 40px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        }
+        .form-card h2 {
+            font-size: 22px;
+            color: #1a1a2e;
+            margin-bottom: 5px;
+        }
+        .form-card p {
+            font-size: 13px;
+            color: #888;
+            margin-bottom: 25px;
+        }
+        label {
+            font-size: 13px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 6px;
+            display: block;
+        }
+        .form-control {
+            border-radius: 10px;
+            padding: 12px 15px;
+            border: 1.5px solid #e0e0e0;
+            font-size: 14px;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        .form-control:focus {
+            border-color: #1a1a2e;
+            outline: none;
+        }
+        .btn-add {
+            background-color: #1a1a2e;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            padding: 13px;
+            width: 100%;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        .btn-add:hover { background-color: #2d3fd3; }
+        .back-link {
+            display: block;
+            text-align: center;
+            margin-top: 15px;
+            font-size: 13px;
+            color: #1a1a2e;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Navbar -->
+<div class="navbar">
+    <a href="/admin_dashboard" class="navbar-brand">
+        <div class="logo-icon">M</div>
+        MedApp Admin
+    </a>
+    <div class="navbar-links">
+        <a href="/admin_doctors">Doctors</a>
+        <a href="/admin_patients">Patients</a>
+        <a href="/admin_appointments">Appointments</a>
+        <a href="/logout" class="logout">Logout</a>
+    </div>
+</div>
+
+<!-- Main Content -->
+<div class="container">
+    <div class="form-card">
+        <h2>👨‍⚕️ Add New Doctor</h2>
+        <p>Fill in the details to add a new doctor</p>
+
+        <form action="/add_doctor" method="POST">
+            <div>
+                <label>Full Name</label>
+                <input type="text" name="name" class="form-control" placeholder="Dr. John Smith" required>
+            </div>
+            <div>
+                <label>Email</label>
+                <input type="email" name="email" class="form-control" placeholder="doctor@email.com" required>
+            </div>
+            <div>
+                <label>Password</label>
+                <input type="password" name="password" class="form-control" placeholder="Set a password" required>
+            </div>
+            <div>
+                <label>Specialization</label>
+                <input type="text" name="specialization" class="form-control" placeholder="e.g. Cardiologist" required>
+            </div>
+            <div>
+                <label>Bio</label>
+                <textarea name="bio" class="form-control" rows="3" placeholder="Brief description about the doctor..."></textarea>
+            </div>
+            <div>
+                <label>Consultation Fee (₹)</label>
+                <input type="number" name="consultation_fee" class="form-control" placeholder="500" required>
+            </div>
+
+            <button type="submit" class="btn-add">Add Doctor</button>
+        </form>
+
+        <a href="/admin_doctors" class="back-link">← Back to Doctors</a>
+    </div>
+</div>
+
+</body>
+</html>

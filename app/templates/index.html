@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MedApp - Medical Appointment System</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background-color: #f0f2f8;
+            font-family: 'Segoe UI', sans-serif;
+        }
+        .navbar {
+            background-color: #2d3fd3;
+            padding: 15px 30px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .navbar-brand {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: white;
+            font-size: 20px;
+            font-weight: 700;
+            text-decoration: none;
+        }
+        .logo-icon {
+            width: 35px;
+            height: 35px;
+            background: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #2d3fd3;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .navbar-links { display: flex; gap: 15px; align-items: center; }
+        .navbar-links a {
+            color: white;
+            text-decoration: none;
+            font-size: 14px;
+            padding: 8px 16px;
+            border-radius: 8px;
+        }
+        .navbar-links a:hover { background: rgba(255,255,255,0.2); }
+        .navbar-links .login {
+            background: rgba(255,255,255,0.2);
+            border: 1px solid rgba(255,255,255,0.4);
+        }
+        .hero {
+            text-align: center;
+            padding: 80px 20px;
+        }
+        .hero h1 {
+            font-size: 42px;
+            font-weight: 700;
+            color: #1a1a2e;
+            margin-bottom: 15px;
+        }
+        .hero p {
+            font-size: 16px;
+            color: #888;
+            margin-bottom: 35px;
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .hero-buttons {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+        }
+        .btn-primary-custom {
+            background-color: #2d3fd3;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            padding: 14px 35px;
+            font-size: 15px;
+            font-weight: 600;
+            text-decoration: none;
+        }
+        .btn-primary-custom:hover {
+            background-color: #1f2fa8;
+            color: white;
+        }
+        .btn-outline-custom {
+            background-color: transparent;
+            color: #2d3fd3;
+            border: 2px solid #2d3fd3;
+            border-radius: 10px;
+            padding: 14px 35px;
+            font-size: 15px;
+            font-weight: 600;
+            text-decoration: none;
+        }
+        .btn-outline-custom:hover {
+            background-color: #2d3fd3;
+            color: white;
+        }
+        .cards-section {
+            max-width: 1100px;
+            margin: 0 auto 60px;
+            padding: 0 20px;
+        }
+        .cards-section h2 {
+            text-align: center;
+            font-size: 28px;
+            color: #1a1a2e;
+            margin-bottom: 30px;
+            font-weight: 700;
+        }
+        .cards-row {
+            display: flex;
+            gap: 20px;
+        }
+        .feature-card {
+            flex: 1;
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            text-align: center;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        }
+        .feature-card .icon {
+            font-size: 40px;
+            margin-bottom: 15px;
+        }
+        .feature-card h3 {
+            font-size: 18px;
+            font-weight: 600;
+            color: #1a1a2e;
+            margin-bottom: 10px;
+        }
+        .feature-card p {
+            font-size: 13px;
+            color: #888;
+            line-height: 1.6;
+        }
+        .feature-card.blue { border-top: 4px solid #2d3fd3; }
+        .feature-card.green { border-top: 4px solid #1a7a4a; }
+        .feature-card.dark { border-top: 4px solid #1a1a2e; }
+    </style>
+</head>
+<body>
+
+<!-- Navbar -->
+<div class="navbar">
+    <a href="/" class="navbar-brand">
+        <div class="logo-icon">M</div>
+        MedApp
+    </a>
+    <div class="navbar-links">
+        <a href="/register">Register</a>
+        <a href="/login" class="login">Login</a>
+    </div>
+</div>
+
+<!-- Hero Section -->
+<div class="hero">
+    <h1>Your Health, Our Priority 🏥</h1>
+    <p>Book appointments with the best doctors easily and efficiently. Manage your healthcare journey with MedApp.</p>
+    <div class="hero-buttons">
+        <a href="/register" class="btn-primary-custom">Get Started</a>
+        <a href="/login" class="btn-outline-custom">Login</a>
+    </div>
+</div>
+
+<!-- Features Section -->
+<div class="cards-section">
+    <h2>Why Choose MedApp?</h2>
+    <div class="cards-row">
+        <div class="feature-card blue">
+            <div class="icon">🔍</div>
+            <h3>Find Doctors</h3>
+            <p>Search doctors by specialization and find the best match for your needs.</p>
+        </div>
+        <div class="feature-card green">
+            <div class="icon">📅</div>
+            <h3>Easy Booking</h3>
+            <p>Book, reschedule or cancel appointments with just a few clicks.</p>
+        </div>
+        <div class="feature-card dark">
+            <div class="icon">🛡️</div>
+            <h3>Secure & Reliable</h3>
+            <p>Your data is safe with us. Secure login and encrypted passwords.</p>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
