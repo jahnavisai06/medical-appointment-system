@@ -7,6 +7,7 @@ def get_db_connection():
         port=int(os.getenv('MYSQLPORT', 3306)),
         user=os.getenv('MYSQLUSER', 'root'),
         password=os.getenv('MYSQLPASSWORD', 'srigan@7484'),
-        database=os.getenv('MYSQLDATABASE', 'medical_appointment_system')
+        database=os.getenv('MYSQLDATABASE', 'medical_appointment_system'),
+        connect_timeout=10
     )
     return connection
