@@ -9,6 +9,10 @@ load_dotenv()
 
 def create_app():
     app = Flask(__name__)
+    
+    # Ensure uploads folder exists
+    os.makedirs('uploads', exist_ok=True)
+    
     app.secret_key = os.getenv('SECRET_KEY')
     app.permanent_session_lifetime = timedelta(minutes=30)
     
@@ -25,4 +29,3 @@ def create_app():
         return {'unread_count': 0}
 
     return app
-   
