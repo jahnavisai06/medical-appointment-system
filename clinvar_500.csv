@@ -1,0 +1,501 @@
+GeneSymbol,Name,PhenotypeList,ClinicalSignificance,risk_level
+AP5Z1,NM_014855.3(AP5Z1):c.1413_1426del (p.Leu473fs),Hereditary spastic paraplegia 48,Pathogenic,HIGH
+FOXRED1,NM_017547.4(FOXRED1):c.694C>T (p.Gln232Ter),"Mitochondrial complex I deficiency, nuclear type 19|not provided|Leigh syndrome|FOXRED1-related disorder",Pathogenic,HIGH
+FOXRED1,NM_017547.4(FOXRED1):c.1289A>G (p.Asn430Ser),"Mitochondrial complex I deficiency, nuclear type 19",Likely pathogenic,MEDIUM
+HFE,NM_000410.4(HFE):c.989G>T (p.Arg330Met),Hemochromatosis type 1,Pathogenic,HIGH
+WDR35,NM_020779.4(WDR35):c.25-2A>G,Cranioectodermal dysplasia 2,Pathogenic,HIGH
+WDR35,NM_020779.4(WDR35):c.1844A>G (p.Glu615Gly),Cranioectodermal dysplasia 2,Pathogenic,HIGH
+WDR35,NM_020779.4(WDR35):c.2858del (p.Pro953fs),Cranioectodermal dysplasia 2|Short-rib thoracic dysplasia 7 with or without polydactyly;Cranioectodermal dysplasia 2,Pathogenic,HIGH
+WDR35,NM_020779.4(WDR35):c.2590G>A (p.Ala864Thr),Cranioectodermal dysplasia 2|not provided,Likely pathogenic,MEDIUM
+ABHD12,NM_001042472.3(ABHD12):c.337_338delinsTTT (p.Asp113fs),PHARC syndrome|not provided,Pathogenic,HIGH
+ABHD12,NM_015600.4(ABHD12):c.-6898_191+7002delinsCC,PHARC syndrome,Pathogenic,HIGH
+ABHD12,NM_001042472.3(ABHD12):c.846_852dup (p.His285Ter),PHARC syndrome,Pathogenic,HIGH
+ABHD12,NM_001042472.3(ABHD12):c.1054C>T (p.Arg352Ter),PHARC syndrome|not provided,Pathogenic,HIGH
+HOGA1,NM_138413.4(HOGA1):c.860G>T (p.Gly287Val),Primary hyperoxaluria type 3|not provided,Pathogenic,HIGH
+HOGA1,NM_138413.4(HOGA1):c.700+4G>T,Primary hyperoxaluria type 3,Pathogenic,HIGH
+FAM161A,NM_001201543.2(FAM161A):c.685C>T (p.Arg229Ter),Retinitis pigmentosa 28|Retinal dystrophy|not provided|Autosomal recessive retinitis pigmentosa,Pathogenic,HIGH
+FAM161A,NM_001201543.2(FAM161A):c.1309A>T (p.Arg437Ter),Retinitis pigmentosa 28|not provided|Cone-rod dystrophy|Retinitis pigmentosa|Retinal dystrophy,Pathogenic,HIGH
+FAM161A,NM_001201543.2(FAM161A):c.1355_1356del (p.Thr452fs),Retinitis pigmentosa 28|not provided|Retinitis pigmentosa|Retinal dystrophy,Pathogenic,HIGH
+FAM161A,NM_001201543.2(FAM161A):c.1567C>T (p.Arg523Ter),Retinitis pigmentosa 28|Retinal dystrophy|not provided|Retinitis pigmentosa,Pathogenic,HIGH
+FAM161A,NM_001201543.2(FAM161A):c.1786C>T (p.Arg596Ter),Retinitis pigmentosa 28|not provided,Pathogenic,HIGH
+WDR62,NM_001083961.2(WDR62):c.4205_4208del (p.Val1402fs),"Microcephaly 2, primary, autosomal recessive, with or without cortical malformations",Pathogenic,HIGH
+WDR62,NM_001083961.2(WDR62):c.671G>C (p.Trp224Ser),"Microcephaly 2, primary, autosomal recessive, with or without cortical malformations",Pathogenic,HIGH
+WDR62,NM_001083961.2(WDR62):c.1408C>T (p.Gln470Ter),"Microcephaly 2, primary, autosomal recessive, with or without cortical malformations",Pathogenic,HIGH
+WDR62,NM_001083961.2(WDR62):c.3839_3855del (p.Gly1280fs),"Microcephaly 2, primary, autosomal recessive, with or without cortical malformations",Pathogenic,HIGH
+WDPCP,NM_015910.7(WDPCP):c.76-1G>T,Bardet-Biedl syndrome 15,Pathogenic,HIGH
+TBC1D24,NM_001199107.2(TBC1D24):c.439G>C (p.Asp147His),"Familial infantile myoclonic epilepsy|not provided|not provided;Developmental and epileptic encephalopathy, 1;Autosomal dominant nonsyndromic hearing loss 65",Pathogenic,HIGH
+TBC1D24,NM_001199107.2(TBC1D24):c.751T>C (p.Phe251Leu),Familial infantile myoclonic epilepsy,Pathogenic,HIGH
+XPNPEP3,NM_022098.4(XPNPEP3):c.1357G>T (p.Gly453Cys),Nephronophthisis-like nephropathy 1,Pathogenic,HIGH
+XPNPEP3,NM_022098.4(XPNPEP3):c.931_934del (p.Asn311fs),Nephronophthisis-like nephropathy 1,Pathogenic,HIGH
+SDCCAG8,NM_006642.5(SDCCAG8):c.1420del (p.Glu474fs),Senior-Loken syndrome 7|not provided|Bardet-Biedl syndrome|Senior-Loken syndrome 7;Bardet-Biedl syndrome 16,Pathogenic,HIGH
+SDCCAG8,NM_006642.5(SDCCAG8):c.1339dup (p.Glu447fs),Senior-Loken syndrome 7,Pathogenic,HIGH
+SDCCAG8,NM_006642.5(SDCCAG8):c.1946_1949del (p.Cys649fs),Senior-Loken syndrome 7,Pathogenic,HIGH
+SDCCAG8,NM_006642.5(SDCCAG8):c.679A>T (p.Lys227Ter),Bardet-Biedl syndrome 16|Bardet-Biedl syndrome 16;Senior-Loken syndrome 7,Pathogenic,HIGH
+UROD,NM_000374.5(UROD):c.842G>A (p.Gly281Glu),Hepatoerythropoietic porphyria|Porphyria cutanea tarda|Familial porphyria cutanea tarda|not provided,Pathogenic,HIGH
+UROD,NM_000374.5(UROD):c.636+1G>C,"Familial porphyria cutanea tarda|Thyroid cancer, nonmedullary, 1|not provided",Pathogenic,HIGH
+UROD,NM_000374.5(UROD):c.874C>G (p.Arg292Gly),Hepatoerythropoietic porphyria,Pathogenic,HIGH
+UROD,NM_000374.5(UROD):c.185C>T (p.Pro62Leu),Hepatoerythropoietic porphyria|not provided,Pathogenic,HIGH
+UROD,NM_000374.5(UROD):c.583C>T (p.Leu195Phe),Familial porphyria cutanea tarda,Pathogenic,HIGH
+UROD,NM_000374.5(UROD):c.912C>A (p.Asn304Lys),Familial porphyria cutanea tarda|not provided,Pathogenic,HIGH
+LIPA,NM_000235.4(LIPA):c.599T>C (p.Leu200Pro),Wolman disease|Lysosomal acid lipase deficiency|Cholesteryl ester storage disease|Cardiovascular phenotype,Pathogenic,HIGH
+LIPA,NM_000235.4(LIPA):c.796G>T (p.Gly266Ter),Lysosomal acid lipase deficiency|Wolman disease|Cholesteryl ester storage disease|not provided|Cholesteryl ester storage disease;Wolman disease|LIPA-related disorder,Pathogenic,HIGH
+LIPA,NM_000235.4(LIPA):c.594dup (p.Ala199fs),Wolman disease|Lysosomal acid lipase deficiency|Cholesteryl ester storage disease|not provided|LIPA-related disorder,Pathogenic,HIGH
+LIPA,NM_000235.4(LIPA):c.894+1G>A,Wolman disease|Lysosomal acid lipase deficiency,Pathogenic,HIGH
+LIPA,NM_000235.4(LIPA):c.129C>G (p.Tyr43Ter),Wolman disease,Pathogenic,HIGH
+HPSE2,NM_021828.5(HPSE2):c.241_242del (p.Leu81fs),Urofacial syndrome type 1,Pathogenic,HIGH
+HPSE2,NM_021828.5(HPSE2):c.1414C>T (p.Arg472Ter),Urofacial syndrome type 1|not provided,Pathogenic,HIGH
+HPSE2,NM_021828.5(HPSE2):c.57dup (p.Ala20fs),Urofacial syndrome type 1|HPSE2-related disorder,Pathogenic,HIGH
+ASAH1,NM_177924.5(ASAH1):c.665C>A (p.Thr222Lys),Farber lipogranulomatosis,Pathogenic,HIGH
+ASAH1,NM_177924.5(ASAH1):c.413A>T (p.Glu138Val),Farber lipogranulomatosis|not provided,Likely pathogenic,MEDIUM
+ASAH1,NM_177924.5(ASAH1):c.958A>G (p.Asn320Asp),Farber lipogranulomatosis,Pathogenic,HIGH
+ASAH1,NM_177924.5(ASAH1):c.544C>G (p.Leu182Val),Farber lipogranulomatosis,Pathogenic,HIGH
+TCN2,NM_000355.4(TCN2):c.927_930del (p.Cys309fs),Transcobalamin II deficiency,Pathogenic,HIGH
+TCN2,NM_000355.4(TCN2):c.427+2T>G,Transcobalamin II deficiency,Pathogenic,HIGH
+TCN2,NM_000355.4(TCN2):c.940+303_1106+746delinsCTGG,Transcobalamin II deficiency,Pathogenic,HIGH
+TCN2,NM_000355.4(TCN2):c.581-176A>T,Transcobalamin II deficiency,Pathogenic,HIGH
+PCARE,NM_001029883.3(PCARE):c.759G>A (p.Trp253Ter),Retinitis pigmentosa 54,Pathogenic,HIGH
+PCARE,NM_001029883.3(PCARE):c.947del (p.Asn316fs),Retinitis pigmentosa 54|not provided|Stargardt disease,Pathogenic,HIGH
+PCARE,NM_001029883.3(PCARE):c.556C>T (p.Gln186Ter),Retinitis pigmentosa 54|Retinitis pigmentosa,Pathogenic,HIGH
+PCARE,NM_001029883.3(PCARE):c.2756_2768del (p.Lys919fs),Retinitis pigmentosa 54|Retinitis pigmentosa|not provided|Autosomal recessive retinitis pigmentosa|Retinal dystrophy,Pathogenic,HIGH
+TMEM127,NM_017849.4(TMEM127):c.410-2A>C,"Pheochromocytoma, susceptibility to|Pheochromocytoma|Hereditary pheochromocytoma and paraganglioma|not provided",Pathogenic,HIGH
+VIPAS39,NM_001193315.2(VIPAS39):c.535C>T (p.Gln179Ter),"Arthrogryposis, renal dysfunction, and cholestasis 2",Pathogenic,HIGH
+VIPAS39,NM_001193315.2(VIPAS39):c.749_753del (p.Thr250fs),"Arthrogryposis, renal dysfunction, and cholestasis 2",Pathogenic,HIGH
+VIPAS39,NM_001193315.2(VIPAS39):c.658C>T (p.Arg220Ter),"Arthrogryposis, renal dysfunction, and cholestasis 2|not provided",Pathogenic,HIGH
+VIPAS39,NM_001193315.2(VIPAS39):c.871C>T (p.Gln291Ter),"Arthrogryposis, renal dysfunction, and cholestasis 2",Pathogenic,HIGH
+VIPAS39,NM_001193315.2(VIPAS39):c.2T>G (p.Met1Arg),"Arthrogryposis, renal dysfunction, and cholestasis 2",Pathogenic,HIGH
+POMP,NC_000013.11:g.28659090del,Keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome|not provided,Pathogenic,HIGH
+CBS,NM_000071.3(CBS):c.919G>A (p.Gly307Ser),"Homocystinuria, pyridoxine-nonresponsive|HYPERHOMOCYSTEINEMIA, THROMBOTIC, CBS-RELATED|not provided|Classic homocystinuria|Homocystinuria|Familial thoracic aortic aneurysm and aortic dissection|CBS-related disorder",Pathogenic,HIGH
+CBS,NM_000071.3(CBS):c.833T>C (p.Ile278Thr),"Homocystinuria, pyridoxine-responsive|HYPERHOMOCYSTEINEMIA, THROMBOTIC, CBS-RELATED|not provided|Classic homocystinuria|Homocystinuria|Intellectual disability|Connective tissue disorder|Familial thoracic aortic aneurysm and aortic dissection|See cases|Thoracic aortic aneurysm or dissection",Pathogenic,HIGH
+CBS,NM_000071.3(CBS):c.1150A>G (p.Lys384Glu),"Homocystinuria, pyridoxine-responsive|HYPERHOMOCYSTEINEMIA, THROMBOTIC, CBS-RELATED",Likely pathogenic,MEDIUM
+CBS,NM_000071.3(CBS):c.1616T>C (p.Leu539Ser),"Homocystinuria, pyridoxine-responsive|Classic homocystinuria|Homocystinuria|HYPERHOMOCYSTEINEMIA, THROMBOTIC, CBS-RELATED",Likely pathogenic,MEDIUM
+CBS,NM_000071.3(CBS):c.1224-2A>C,"Homocystinuria, pyridoxine-responsive|Classic homocystinuria|not provided|Homocystinuria|HYPERHOMOCYSTEINEMIA, THROMBOTIC, CBS-RELATED|Familial thoracic aortic aneurysm and aortic dissection|CBS-related disorder|Hepatocellular carcinoma",Pathogenic,HIGH
+CBS,NM_000071.3(CBS):c.1058C>T (p.Thr353Met),"Homocystinuria, pyridoxine-nonresponsive|not provided|Classic homocystinuria|Homocystinuria|HYPERHOMOCYSTEINEMIA, THROMBOTIC, CBS-RELATED|Familial thoracic aortic aneurysm and aortic dissection",Pathogenic,HIGH
+CBS,NM_000071.3(CBS):c.572C>T (p.Thr191Met),"Homocystinuria, pyridoxine-nonresponsive|not provided|Classic homocystinuria|Homocystinuria|HYPERHOMOCYSTEINEMIA, THROMBOTIC, CBS-RELATED|Familial thoracic aortic aneurysm and aortic dissection|CBS-related disorder",Pathogenic,HIGH
+TPRN,NM_001128228.3(TPRN):c.1427del (p.Pro476fs),Autosomal recessive nonsyndromic hearing loss 79,Pathogenic,HIGH
+TPRN,NM_001128228.3(TPRN):c.227_237dup (p.Leu80fs),Autosomal recessive nonsyndromic hearing loss 79,Pathogenic,HIGH
+TPRN,NM_001128228.3(TPRN):c.225_235del (p.Gly76fs),Autosomal recessive nonsyndromic hearing loss 79|not provided|TPRN-related disorder|Rare genetic deafness,Pathogenic,HIGH
+TPRN,NM_001128228.3(TPRN):c.1530del (p.Thr511fs),Autosomal recessive nonsyndromic hearing loss 79,Pathogenic,HIGH
+SLC52A3,NM_033409.4(SLC52A3):c.1325_1326del (p.Leu442fs),Brown-Vialetto-van Laere syndrome 1|not provided,Likely pathogenic,MEDIUM
+SLC52A3,NM_033409.4(SLC52A3):c.211G>T (p.Glu71Ter),Brown-Vialetto-van Laere syndrome 1,Pathogenic,HIGH
+SLC52A3,NM_033409.4(SLC52A3):c.670T>C (p.Phe224Leu),Brown-Vialetto-van Laere syndrome 1,Pathogenic,HIGH
+SLC52A3,NM_033409.4(SLC52A3):c.82C>A (p.Pro28Thr),Brown-Vialetto-van Laere syndrome 1,Pathogenic,HIGH
+OAT,NM_000274.4(OAT):c.3G>A (p.Met1Ile),Ornithine aminotransferase deficiency,Pathogenic,HIGH
+OAT,NM_000274.4(OAT):c.159del (p.His53fs),Ornithine aminotransferase deficiency,Pathogenic,HIGH
+OAT,NM_000274.4(OAT):c.550_552del (p.Ala184del),Ornithine aminotransferase deficiency,Pathogenic,HIGH
+OAT,NM_000274.4(OAT):c.163T>C (p.Tyr55His),Ornithine aminotransferase deficiency,Pathogenic,HIGH
+OAT,NM_000274.4(OAT):c.278G>T (p.Cys93Phe),Ornithine aminotransferase deficiency,Likely pathogenic,MEDIUM
+OAT,NM_000274.4(OAT):c.461G>T (p.Arg154Leu),Ornithine aminotransferase deficiency|Hyperornithinemia,Likely pathogenic,MEDIUM
+OAT,NM_000274.4(OAT):c.808G>C (p.Ala270Pro),Ornithine aminotransferase deficiency,Pathogenic,HIGH
+OAT,NM_000274.4(OAT):c.1205T>C (p.Leu402Pro),Ornithine aminotransferase deficiency|Hyperornithinemia,Pathogenic,HIGH
+OAT,NM_000274.4(OAT):c.1124G>C (p.Gly375Ala),Ornithine aminotransferase deficiency|Retinal dystrophy|Hyperornithinemia,Likely pathogenic,MEDIUM
+OAT,NM_000274.4(OAT):c.734A>G (p.Tyr245Cys),Ornithine aminotransferase deficiency,Pathogenic,HIGH
+OAT,NM_000274.4(OAT):c.955C>T (p.His319Tyr),Ornithine aminotransferase deficiency,Pathogenic,HIGH
+OAT,NM_000274.4(OAT):c.425-4_429del,Ornithine aminotransferase deficiency,Pathogenic,HIGH
+OAT,NM_000274.4(OAT):c.550G>A (p.Ala184Thr),Ornithine aminotransferase deficiency,Pathogenic,HIGH
+OAT,NM_000274.4(OAT):c.749G>C (p.Arg250Pro),Ornithine aminotransferase deficiency,Pathogenic,HIGH
+OAT,NM_000274.4(OAT):c.1201G>T (p.Gly401Ter),Ornithine aminotransferase deficiency,Pathogenic,HIGH
+OAT,NC_000010.11:g.(124404664_124404669)_(124404736_124405741)del,Ornithine aminotransferase deficiency,Pathogenic,HIGH
+OAT,NM_000274.4(OAT):c.627T>A (p.Tyr209Ter),Ornithine aminotransferase deficiency,Pathogenic,HIGH
+OAT,NM_000274.4(OAT):c.1276C>T (p.Arg426Ter),Ornithine aminotransferase deficiency|Hyperornithinemia,Pathogenic,HIGH
+OAT,NM_000274.4(OAT):c.533G>A (p.Trp178Ter),Ornithine aminotransferase deficiency,Pathogenic,HIGH
+DPYS,NM_001385.3(DPYS):c.1001A>G (p.Gln334Arg),Dihydropyrimidinase deficiency|not provided,Pathogenic,HIGH
+DPYS,NM_001385.3(DPYS):c.1303G>A (p.Gly435Arg),Dihydropyrimidinase deficiency,Pathogenic,HIGH
+DPYS,NM_001385.3(DPYS):c.1235G>T (p.Arg412Met),Dihydropyrimidinase deficiency,Pathogenic,HIGH
+SH3PXD2B,NM_001017995.3(SH3PXD2B):c.147dup (p.Asp50Ter),Frank-Ter Haar syndrome,Pathogenic,HIGH
+SH3PXD2B,NM_001017995.3(SH3PXD2B):c.969del (p.Arg324fs),Frank-Ter Haar syndrome,Pathogenic,HIGH
+SH3PXD2B,NM_001017995.3(SH3PXD2B):c.127C>T (p.Arg43Trp),Frank-Ter Haar syndrome|Inborn genetic diseases,Likely pathogenic,MEDIUM
+SH3PXD2B,NM_001017995.3(SH3PXD2B):c.76-2A>C,Frank-Ter Haar syndrome,Pathogenic,HIGH
+TMEM216,NM_001173990.3(TMEM216):c.218G>T (p.Arg73Leu),"Joubert syndrome 2|not provided|Meckel syndrome, type 2|Joubert syndrome|Inborn genetic diseases|TMEM216-related disorder|Meckel syndrome, type 2;Joubert syndrome 2",Pathogenic,HIGH
+USB1,NM_024598.4(USB1):c.504-2A>C,Poikiloderma with neutropenia,Pathogenic,HIGH
+USB1,NM_024598.4(USB1):c.683_693+1del,Poikiloderma with neutropenia,Pathogenic,HIGH
+USB1,NM_024598.4(USB1):c.502A>G (p.Arg168Gly),Poikiloderma with neutropenia,Pathogenic,HIGH
+PEPD,NM_000285.4(PEPD):c.826G>A (p.Asp276Asn),Prolidase deficiency|not provided,Pathogenic,HIGH
+PEPD,NM_000285.3(PEPD):c.1153_1344del (p.Gly385_Gly448del),Prolidase deficiency,Pathogenic,HIGH
+PEPD,NM_000285.4(PEPD):c.551G>A (p.Arg184Gln),Prolidase deficiency|not provided|Melanoma,Pathogenic,HIGH
+PEPD,NM_000285.4(PEPD):c.793C>T (p.Arg265Ter),Prolidase deficiency|not provided,Pathogenic,HIGH
+PEPD,NM_000285.4(PEPD):c.1234G>A (p.Glu412Lys),Prolidase deficiency,Pathogenic,HIGH
+PEPD,NM_000285.4(PEPD):c.611_623dup (p.Glu208_Val209insGlyProProTer),Prolidase deficiency|not provided,Pathogenic,HIGH
+PEPD,NM_000285.4(PEPD):c.605C>T (p.Ser202Phe),Prolidase deficiency,Pathogenic,HIGH
+AGA,NM_000027.4(AGA):c.488G>C (p.Cys163Ser),"ASPARTYLGLUCOSAMINURIA, FINNISH TYPE|Aspartylglucosaminuria|not provided",Pathogenic,HIGH
+AGA,NM_000027.4(AGA):c.904G>A (p.Gly302Arg),Aspartylglucosaminuria,Pathogenic,HIGH
+AGA,NM_000027.4(AGA):c.916T>C (p.Cys306Arg),Aspartylglucosaminuria,Likely pathogenic,MEDIUM
+AGA,NM_000027.4(AGA):c.179G>A (p.Gly60Asp),Aspartylglucosaminuria,Likely pathogenic,MEDIUM
+AGA,NM_000027.4(AGA):c.214T>C (p.Ser72Pro),Aspartylglucosaminuria,Pathogenic,HIGH
+CYB5A,NM_148923.4(CYB5A):c.130-2A>G,Methemoglobinemia type 4,Pathogenic,HIGH
+WDR72,NM_182758.4(WDR72):c.2348C>G (p.Ser783Ter),Amelogenesis imperfecta hypomaturation type 2A3,Pathogenic,HIGH
+WDR72,NM_182758.4(WDR72):c.2934G>A (p.Trp978Ter),Amelogenesis imperfecta hypomaturation type 2A3|not provided,Pathogenic,HIGH
+WDR72,NM_182758.4(WDR72):c.2857del (p.Ser953fs),Amelogenesis imperfecta hypomaturation type 2A3|Renal tubulopathies,Pathogenic,HIGH
+CYB5R3,NM_000398.7(CYB5R3):c.382T>C (p.Ser128Pro),"METHEMOGLOBINEMIA, TYPE II",Pathogenic,HIGH
+CYB5R3,NM_000398.7(CYB5R3):c.173G>A (p.Arg58Gln),"METHEMOGLOBINEMIA, TYPE I|not provided|CYB5R3-related disorder",Likely pathogenic,MEDIUM
+CYB5R3,NM_000398.7(CYB5R3):c.446T>C (p.Leu149Pro),"METHEMOGLOBINEMIA, TYPE I",Pathogenic,HIGH
+CYB5R3,NM_000398.7(CYB5R3):c.734-1G>T,"METHEMOGLOBINEMIA, TYPE II",Pathogenic,HIGH
+CYB5R3,NM_000398.7(CYB5R3):c.463+8G>C,"METHEMOGLOBINEMIA, TYPE II",Pathogenic,HIGH
+CYB5R3,NM_000398.7(CYB5R3):c.655C>T (p.Arg219Ter),"METHEMOGLOBINEMIA, TYPE II",Pathogenic,HIGH
+CYB5R3,NM_000398.7(CYB5R3):c.610T>C (p.Cys204Arg),"METHEMOGLOBINEMIA, TYPE II",Pathogenic,HIGH
+CYB5R3,NM_000398.7(CYB5R3):c.817_819del (p.Met273del),"METHEMOGLOBINEMIA, TYPE II",Pathogenic,HIGH
+CYB5R3,NM_000398.7(CYB5R3):c.895_897del (p.Phe299del),"METHEMOGLOBINEMIA, TYPE II",Pathogenic,HIGH
+CYB5R3,NM_000398.7(CYB5R3):c.229C>T (p.Gln77Ter),"METHEMOGLOBINEMIA, TYPE II|not provided",Pathogenic,HIGH
+CYB5R3,NM_000398.7(CYB5R3):c.478C>T (p.Arg160Ter),"METHEMOGLOBINEMIA, TYPE II|not provided|Deficiency of cytochrome-b5 reductase",Pathogenic,HIGH
+CYB5R3,NM_000398.7(CYB5R3):c.611G>A (p.Cys204Tyr),"METHEMOGLOBINEMIA, TYPE I|Hereditary methemoglobinemia",Pathogenic,HIGH
+CYB5R3,NM_000398.7(CYB5R3):c.763GAG[1] (p.Glu256del),"METHEMOGLOBINEMIA, TYPE I|Deficiency of cytochrome-b5 reductase",Likely pathogenic,MEDIUM
+XPC,NM_004628.5(XPC):c.1292_1293del (p.Lys431fs),"Xeroderma pigmentosum, group C",Pathogenic,HIGH
+XPC,NM_004628.5(XPC):c.2033+2T>G,"Xeroderma pigmentosum, group C",Pathogenic,HIGH
+XPC,NM_004628.5(XPC):c.566_567del (p.Tyr189fs),"Xeroderma pigmentosum, group C|Xeroderma pigmentosum|not provided",Pathogenic,HIGH
+XPC,NM_004628.5(XPC):c.1735C>T (p.Arg579Ter),"Xeroderma pigmentosum, group C|Xeroderma pigmentosum|not provided",Pathogenic,HIGH
+XPC,NM_004628.5(XPC):c.413-9T>A,"Xeroderma pigmentosum, group C",Pathogenic,HIGH
+XPC,NM_004628.5(XPC):c.1643_1644del (p.Val548fs),"Xeroderma pigmentosum, group C|Xeroderma pigmentosum|not provided|See cases|XPC-related disorder",Pathogenic,HIGH
+DNAAF1,NM_178452.6(DNAAF1):c.1349dup (p.Pro451fs),Primary ciliary dyskinesia 13|Kartagener syndrome|Primary ciliary dyskinesia,Pathogenic,HIGH
+DNAAF1,NM_178452.6(DNAAF1):c.811C>T (p.Arg271Ter),Primary ciliary dyskinesia 13|Primary ciliary dyskinesia,Pathogenic,HIGH
+DNAAF1,NM_178452.6(DNAAF1):c.792C>A (p.Tyr264Ter),Primary ciliary dyskinesia 13|Primary ciliary dyskinesia,Pathogenic,HIGH
+DNAAF1,NM_178452.6(DNAAF1):c.508dup (p.Glu170fs),Primary ciliary dyskinesia 13|Primary ciliary dyskinesia,Pathogenic,HIGH
+DNAAF1,NM_178452.6(DNAAF1):c.524T>G (p.Leu175Arg),Primary ciliary dyskinesia 13|Kartagener syndrome,Pathogenic,HIGH
+RBM20,NM_001134363.3(RBM20):c.1913C>T (p.Pro638Leu),Dilated cardiomyopathy 1DD|Primary dilated cardiomyopathy|not provided|Dilated cardiomyopathy 1S|Cardiovascular phenotype|Dilated cardiomyopathy 1A|RBM20-related disorder,Pathogenic,HIGH
+SERPINF2,NM_000934.4(SERPINF2):c.1437dup (p.Met480fs),Alpha-2-plasmin inhibitor deficiency,Pathogenic,HIGH
+SERPINF2,NM_000934.4(SERPINF2):c.525AGA[1] (p.Glu176del),Alpha-2-plasmin inhibitor deficiency,Pathogenic,HIGH
+SERPINF2,NM_000934.4(SERPINF2):c.1231G>A (p.Val411Met),Alpha-2-plasmin inhibitor deficiency,Pathogenic,HIGH
+CANT1,5'UTR-exon 1 deletion (2703 bp),Desbuquois dysplasia 1,Pathogenic,HIGH
+CANT1,NM_001159773.2(CANT1):c.734del (p.Pro245fs),Desbuquois dysplasia 1,Pathogenic,HIGH
+CANT1,NM_001159773.2(CANT1):c.899G>A (p.Arg300His),Desbuquois dysplasia 1,Likely pathogenic,MEDIUM
+CANT1,NM_001159773.2(CANT1):c.909_910insGCCGC (p.Gln304fs),Desbuquois dysplasia 1,Pathogenic,HIGH
+CANT1,NM_001159773.2(CANT1):c.896C>T (p.Pro299Leu),Desbuquois dysplasia 1|CANT1-related disorder|not provided,Likely pathogenic,MEDIUM
+VWF,NM_000552.5(VWF):c.4883T>C (p.Ile1628Thr),Von Willebrand disease type 2A|not provided|Hereditary von Willebrand disease|VWF-related disorder|von Willebrand disorder|von Willebrand disease type 1|von Willebrand disease type 2,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.4789C>T (p.Arg1597Trp),Von Willebrand disease type 2A|not provided|Inborn genetic diseases|Hereditary von Willebrand disease|von Willebrand disease type 2,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.4820T>A (p.Val1607Asp),Von Willebrand disease type 2A|not provided|von Willebrand disease type 2,Likely pathogenic,MEDIUM
+VWF,NM_000552.5(VWF):c.3939G>C (p.Trp1313Cys),Von Willebrand disease type 2B|not provided,Likely pathogenic,MEDIUM
+VWF,NM_000552.5(VWF):c.3916C>T (p.Arg1306Trp),Von Willebrand disease type 2B|not provided|Hereditary von Willebrand disease|von Willebrand disease type 2|Abnormality of coagulation|von Willebrand disease type 2;von Willebrand disease type 1;von Willebrand disease type 3|von Willebrand disorder,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.3922C>T (p.Arg1308Cys),Von Willebrand disease type 2B|not provided|von Willebrand disease type 2|Hereditary von Willebrand disease,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.3946G>A (p.Val1316Met),Von Willebrand disease type 2B|not provided|Hereditary von Willebrand disease|von Willebrand disease type 2|von Willebrand disease type 2;von Willebrand disease type 1;von Willebrand disease type 3,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.4022G>A (p.Arg1341Gln),Von Willebrand disease type 2B|not provided|Hereditary von Willebrand disease|von Willebrand disease type 2|VWF-related disorder,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.2372C>T (p.Thr791Met),von Willebrand disease type 2N|not provided|Abnormal bleeding|Hereditary von Willebrand disease|von Willebrand disease type 2,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.2446C>T (p.Arg816Trp),von Willebrand disease type 2N|not provided|Hereditary von Willebrand disease|von Willebrand disease type 2;von Willebrand disease type 1;von Willebrand disease type 3,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.2561G>A (p.Arg854Gln),von Willebrand disease type 2N|von Willebrand disease type 1|not provided|Hereditary von Willebrand disease|von Willebrand disease type 2|von Willebrand disease type 1;von Willebrand disease type 3;von Willebrand disease type 2|Abnormality of coagulation|Thrombocytopenia;Abnormal bleeding|von Willebrand disorder|VWF-related disorder|von Willebrand disease type 3|von Willebrand disease type 3;von Willebrand disease type 2,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.4975C>T (p.Arg1659Ter),von Willebrand disease type 1|von Willebrand disease type 3|not provided|Hereditary von Willebrand disease|VWF-related disorder,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.5557C>T (p.Arg1853Ter),von Willebrand disease type 1|von Willebrand disease type 3|not provided|Hereditary von Willebrand disease|Abnormality of blood and blood-forming tissues|von Willebrand disease type 2|VWF-related disorder|von Willebrand disorder,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.7603C>T (p.Arg2535Ter),von Willebrand disease type 3|not provided|Hereditary von Willebrand disease|von Willebrand disease type 1|von Willebrand disorder,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.3970G>A (p.Gly1324Ser),von Willebrand disease type 2M|not provided|von Willebrand disease type 2,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.3814T>C (p.Cys1272Arg),Von Willebrand disease type 2A|not provided|von Willebrand disease type 2,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.3940G>C (p.Val1314Leu),Von Willebrand disease type 2B|not provided,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.2435del (p.Pro812fs),von Willebrand disease type 3|not provided|Hereditary von Willebrand disease|Abnormal bleeding|von Willebrand disease type 1|von Willebrand disease type 2;von Willebrand disease type 1;von Willebrand disease type 3|von Willebrand disease type 2|von Willebrand disorder,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.4541T>G (p.Phe1514Cys),Von Willebrand disease type 2A|not provided,Likely pathogenic,MEDIUM
+VWF,NM_000552.5(VWF):c.1648G>A (p.Gly550Arg),Von Willebrand disease type 2A|not provided,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.8317T>C (p.Cys2773Arg),Von Willebrand disease type 2A|not provided,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.3614G>A (p.Arg1205His),von Willebrand disease type 1|von Willebrand factor Vicenza|not provided|Hereditary von Willebrand disease|Reduced quantity of Von Willebrand factor;Reduced von Willebrand factor activity|VWF-related disorder,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.3445T>C (p.Cys1149Arg),von Willebrand disease type 1|not provided|von Willebrand disease type 2|Von Willebrand disease type 2A,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.3854C>T (p.Ser1285Phe),von Willebrand disease type 2M|not provided,Likely pathogenic,MEDIUM
+VWF,NM_000552.5(VWF):c.2384A>G (p.Tyr795Cys),von Willebrand disease type 2N|not provided,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.2411G>T (p.Cys804Phe),von Willebrand disease type 2N|not provided,Likely pathogenic,MEDIUM
+VWF,NM_000552.5(VWF):c.7085G>T (p.Cys2362Phe),von Willebrand disease type 3|not provided,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.1071C>A (p.Tyr357Ter),von Willebrand disease type 2N|not provided,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.3178T>C (p.Cys1060Arg),von Willebrand disease type 2N|not provided,Pathogenic,HIGH
+VWF,NM_000552.5(VWF):c.1583A>G (p.Asn528Ser),Von Willebrand disease type 2A|not provided|von Willebrand disease type 2,Pathogenic,HIGH
+TSPAN12,NM_012338.4(TSPAN12):c.709G>C (p.Ala237Pro),Exudative vitreoretinopathy 5,Pathogenic,HIGH
+TSPAN12,NM_012338.4(TSPAN12):c.212_218dup (p.Phe73fs),Exudative vitreoretinopathy 5,Pathogenic,HIGH
+TSPAN12,NM_012338.4(TSPAN12):c.419T>A (p.Leu140Ter),Exudative vitreoretinopathy 5,Pathogenic,HIGH
+TSPAN12,NM_012338.4(TSPAN12):c.361-5_361-1del,Exudative vitreoretinopathy 5,Pathogenic,HIGH
+TSPAN12,NM_012338.4(TSPAN12):c.302T>A (p.Leu101His),Exudative vitreoretinopathy 5|not provided,Likely pathogenic,MEDIUM
+RETREG1,NM_001034850.3(RETREG1):c.926C>G (p.Ser309Ter),"Neuropathy, hereditary sensory and autonomic, type 2B|not provided|Charcot-Marie-Tooth disease|Hereditary sensory and autonomic neuropathy type 2",Pathogenic,HIGH
+RETREG1,NM_001034850.3(RETREG1):c.433C>T (p.Gln145Ter),"Neuropathy, hereditary sensory and autonomic, type 2B|not provided|Charcot-Marie-Tooth disease|Hereditary sensory and autonomic neuropathy type 2",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.5186_5190del (p.Ala1729fs),"Neurofibromatosis, type 1",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.5908A>T (p.Arg1970Ter),"Neurofibromatosis, type 1",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.4330A>G (p.Lys1444Glu),"Neurofibromatosis, type 1|not provided|Café-au-lait macules with pulmonary stenosis;Neurofibromatosis-Noonan syndrome;Juvenile myelomonocytic leukemia;Neurofibromatosis, familial spinal;Neurofibromatosis, type 1|Optic nerve glioma;Axillary freckling;Neurofibroma;Cafe au lait spots, multiple|Cardiovascular phenotype;Hereditary cancer-predisposing syndrome|Pheochromocytoma|Juvenile myelomonocytic leukemia|Café-au-lait macules with pulmonary stenosis|Ovarian serous cystadenocarcinoma",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.5511dup (p.Ser1838fs),"Neurofibromatosis, type 1",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.5528_5529insT (p.Lys1844fs),"Neurofibromatosis, type 1",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.6490C>A (p.Leu2164Met),"Neurofibromatosis, type 1",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.6574T>A (p.Tyr2192Asn),"Neurofibromatosis, type 1",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.60+18227_60+18228insGGGCATGAACAACAGAAACTACCTGCTGCCACCTTGGCTTTA,Café-au-lait macules with pulmonary stenosis,Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.5902C>T (p.Arg1968Ter),"Neurofibromatosis, type 1|not provided|Hereditary cancer-predisposing syndrome|Café-au-lait macules with pulmonary stenosis;Neurofibromatosis-Noonan syndrome;Juvenile myelomonocytic leukemia;Neurofibromatosis, familial spinal;Neurofibromatosis, type 1|Tibial pseudarthrosis;Neurofibromatosis, type 1|Juvenile myelomonocytic leukemia|NF1-related disorder|Neurofibromatosis-Noonan syndrome|Neoplasm|Cardiovascular phenotype;Hereditary cancer-predisposing syndrome",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.4084C>T (p.Arg1362Ter),"Neurofibromatosis, type 1|not provided|Hereditary cancer-predisposing syndrome|Neurofibromatosis-Noonan syndrome;Café-au-lait macules with pulmonary stenosis;Juvenile myelomonocytic leukemia;Neurofibromatosis, type 1;Neurofibromatosis, familial spinal",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.3113+1G>A,"Neurofibromatosis, type 1|not provided|Cardiovascular phenotype;Hereditary cancer-predisposing syndrome|NF1-related disorder|Tibial pseudarthrosis;Neurofibromatosis, type 1|Hereditary cancer-predisposing syndrome",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.1541_1542del (p.Gln514fs),"Neurofibromatosis, type 1|Hereditary cancer-predisposing syndrome|not provided|Neurofibromatosis-Noonan syndrome|Juvenile myelomonocytic leukemia|NF1-related disorder|Juvenile myelomonocytic leukemia;Neurofibromatosis, familial spinal;Café-au-lait macules with pulmonary stenosis;Neurofibromatosis-Noonan syndrome;Neurofibromatosis, type 1",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.8105dup (p.Tyr2702Ter),"Neurofibromatosis, familial spinal",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.4677G>A (p.Trp1559Ter),"Juvenile myelomonocytic leukemia|Neurofibromatosis, type 1|not provided|Neoplasm|Cardiovascular phenotype;Hereditary cancer-predisposing syndrome",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.1642-8A>G,"Juvenile myelomonocytic leukemia|Neurofibromatosis, type 1|not provided",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.1466A>G (p.Tyr489Cys),"Neurofibromatosis, type 1|Hereditary cancer-predisposing syndrome|not provided|Tibial pseudarthrosis;Neurofibromatosis, type 1|Rhabdomyosarcoma|Abnormality of the skin|Café-au-lait macules with pulmonary stenosis;Neurofibromatosis-Noonan syndrome;Juvenile myelomonocytic leukemia;Neurofibromatosis, familial spinal;Neurofibromatosis, type 1|Juvenile myelomonocytic leukemia|Neurofibromatosis-Noonan syndrome|NF1-related disorder|Meningioma|Autosomal dominant NF1-related disorders",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.1260+1G>A,"Neurofibromatosis, type 1|not provided",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.4021C>T (p.Gln1341Ter),"Neurofibromatosis, type 1|not provided",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.6007-5A>G,"Neurofibromatosis, type 1|Neurofibromatosis, familial spinal|not provided|Hereditary cancer-predisposing syndrome;Cardiovascular phenotype|Juvenile myelomonocytic leukemia",Pathogenic,HIGH
+NF1,NC_000017.11:g.(?_31094927)_(31377677_?)del,"Neurofibromatosis, type 1",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.3721C>T (p.Arg1241Ter),"Neurofibromatosis, type 1|Inborn genetic diseases|not provided|Juvenile myelomonocytic leukemia|NF1-related disorder|Neoplasm",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.4095_4096insTG (p.His1366fs),Neurofibromatosis-Noonan syndrome,Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.945_946delinsAA (p.Leu316Met),"Neurofibromatosis, type 1",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.3784del (p.Ser1262fs),"Neurofibromatosis, type 1",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.7189+3A>C,"Neurofibromatosis, familial spinal|Cardiovascular phenotype;Hereditary cancer-predisposing syndrome",Likely pathogenic,MEDIUM
+NF1,NM_001042492.3(NF1):c.5773G>T (p.Glu1925Ter),"Neurofibromatosis, type 1|Neoplasm",Pathogenic,HIGH
+NF1,NM_001042492.3(NF1):c.2531T>G (p.Leu844Arg),"Neurofibromatosis, type 1|Cardiovascular phenotype;Hereditary cancer-predisposing syndrome",Pathogenic,HIGH
+CTSA,NM_000308.4(CTSA):c.1318T>G (p.Phe440Val),"GALACTOSIALIDOSIS, LATE INFANTILE|Combined deficiency of sialidase AND beta galactosidase|not provided",Likely pathogenic,MEDIUM
+CTSA,NM_000308.4(CTSA):c.692+3A>G,"GALACTOSIALIDOSIS, ADULT|Combined deficiency of sialidase AND beta galactosidase",Pathogenic,HIGH
+CTSA,NM_000308.4(CTSA):c.193T>C (p.Trp65Arg),Combined deficiency of sialidase AND beta galactosidase,Pathogenic,HIGH
+CTSA,NM_000308.4(CTSA):c.269C>T (p.Ser90Leu),Combined deficiency of sialidase AND beta galactosidase,Likely pathogenic,MEDIUM
+CTSA,NM_000308.4(CTSA):c.745T>A (p.Tyr249Asn),"Combined deficiency of sialidase AND beta galactosidase|GALACTOSIALIDOSIS, LATE INFANTILE",Pathogenic,HIGH
+CTSA,NM_001127695.1(CTSA):c.707T>C (p.Leu236Pro),"GALACTOSIALIDOSIS, EARLY INFANTILE",Pathogenic,HIGH
+CTSA,NM_000308.4(CTSA):c.1217T>C (p.Met406Thr),"GALACTOSIALIDOSIS, LATE INFANTILE",Pathogenic,HIGH
+CTSA,NM_000308.4(CTSA):c.517_518del (p.Phe173fs),"GALACTOSIALIDOSIS, LATE INFANTILE|Combined deficiency of sialidase AND beta galactosidase",Pathogenic,HIGH
+CTSA,NM_000308.4(CTSA):c.1357A>G (p.Lys453Glu),"GALACTOSIALIDOSIS, LATE INFANTILE",Pathogenic,HIGH
+CTSA,NM_000308.4(CTSA):c.777+9C>G,"GALACTOSIALIDOSIS, LATE INFANTILE",Pathogenic,HIGH
+GM2A,NM_000405.5(GM2A):c.412T>C (p.Cys138Arg),"Tay-Sachs disease, variant AB",Pathogenic,HIGH
+GM2A,NM_000405.5(GM2A):c.506G>C (p.Arg169Pro),"Tay-Sachs disease, variant AB",Pathogenic,HIGH
+GM2A,NM_000405.5(GM2A):c.410del (p.His137fs),"Tay-Sachs disease, variant AB",Pathogenic,HIGH
+GM2A,NM_000405.5(GM2A):c.160G>T (p.Glu54Ter),"Tay-Sachs disease, variant AB",Pathogenic,HIGH
+LOXHD1,NM_001384474.1(LOXHD1):c.2008C>T (p.Arg670Ter),Autosomal recessive nonsyndromic hearing loss 77|not provided|LOXHD1-related disorder,Pathogenic,HIGH
+INPP5E,NM_019892.6(INPP5E):c.1879C>T (p.Gln627Ter),MORM syndrome|Joubert syndrome 1;MORM syndrome,Pathogenic,HIGH
+INPP5E,NM_019892.6(INPP5E):c.1688G>A (p.Arg563His),Joubert syndrome 1|Joubert syndrome and related disorders,Likely pathogenic,MEDIUM
+SDHAF2,NM_017841.4(SDHAF2):c.232G>A (p.Gly78Arg),Pheochromocytoma/paraganglioma syndrome 2|Hereditary cancer-predisposing syndrome|not provided|Hereditary pheochromocytoma and paraganglioma,Pathogenic,HIGH
+TAT,NM_000353.3(TAT):c.169C>T (p.Arg57Ter),Tyrosinemia type II|not provided,Pathogenic,HIGH
+TAT,NM_000353.3(TAT):c.668C>G (p.Ser223Ter),Tyrosinemia type II,Pathogenic,HIGH
+TAT,NM_000353.3(TAT):c.1249C>T (p.Arg417Ter),Tyrosinemia type II,Pathogenic,HIGH
+TAT,NM_000353.3(TAT):c.236-5A>G,Tyrosinemia type II,Pathogenic,HIGH
+UROC1,NM_144639.3(UROC1):c.1348C>T (p.Arg450Cys),Urocanate hydratase deficiency,Pathogenic,HIGH
+HTT,NC_000004.11:g.3076606GCA[40_?],Huntington disease,Pathogenic,HIGH
+TMEM126A,NM_032273.4(TMEM126A):c.163C>T (p.Arg55Ter),"Autosomal recessive optic atrophy, OPA7 type|not provided|TMEM126A-related disorder",Pathogenic,HIGH
+TACO1,NM_016360.4(TACO1):c.472dup (p.His158fs),"Mitochondrial complex IV deficiency, nuclear type 1|Mitochondrial complex IV deficiency, nuclear type 8",Likely pathogenic,MEDIUM
+RNASET2,NM_003730.6(RNASET2):c.550T>C (p.Cys184Arg),Cystic leukoencephalopathy without megalencephaly,Pathogenic,HIGH
+RNASET2,NM_003730.6(RNASET2):c.87-1341_147+1181del,Cystic leukoencephalopathy without megalencephaly,Pathogenic,HIGH
+RNASET2,NM_003730.6(RNASET2):c.262-2A>G,Cystic leukoencephalopathy without megalencephaly,Pathogenic,HIGH
+RNASET2,NM_003730.6(RNASET2):c.332+1del,Cystic leukoencephalopathy without megalencephaly,Pathogenic,HIGH
+RNASET2,NM_003730.6(RNASET2):c.50_64del (p.Ala17_Leu21del),Cystic leukoencephalopathy without megalencephaly,Pathogenic,HIGH
+NDUFAF3,NM_199069.2(NDUFAF3):c.229G>C (p.Gly77Arg),"Mitochondrial complex I deficiency, nuclear type 18",Pathogenic,HIGH
+NDUFAF3,NM_199069.2(NDUFAF3):c.365G>C (p.Arg122Pro),"Mitochondrial complex I deficiency, nuclear type 18",Pathogenic,HIGH
+NDUFAF3,NM_199069.2(NDUFAF3):c.2T>C (p.Met1Thr),"Mitochondrial complex I deficiency, nuclear type 18|not provided",Pathogenic,HIGH
+TUBB2B,NM_178012.5(TUBB2B):c.514T>C (p.Ser172Pro),Complex cortical dysplasia with other brain malformations 7,Pathogenic,HIGH
+TUBB2B,NM_178012.5(TUBB2B):c.683T>C (p.Leu228Pro),Complex cortical dysplasia with other brain malformations 7,Pathogenic,HIGH
+TUBB2B,NM_178012.5(TUBB2B):c.793T>C (p.Phe265Leu),Complex cortical dysplasia with other brain malformations 7,Pathogenic,HIGH
+SDHAF1,NM_001042631.3(SDHAF1):c.169G>C (p.Gly57Arg),"Mitochondrial complex 2 deficiency, nuclear type 2",Pathogenic,HIGH
+SDHAF1,NM_001042631.3(SDHAF1):c.164G>C (p.Arg55Pro),"Mitochondrial complex 2 deficiency, nuclear type 2",Pathogenic,HIGH
+COQ9,NM_020312.4(COQ9):c.730C>T (p.Arg244Ter),Encephalopathy-hypertrophic cardiomyopathy-renal tubular disease syndrome|not provided,Pathogenic,HIGH
+DPYD,NM_000110.4(DPYD):c.2921A>T (p.Asp974Val),Fluorouracil response,Pathogenic,HIGH
+BCAM,NM_005581.5(BCAM):c.691C>T (p.Arg231Ter),BLOOD GROUP--LUTHERAN NULL,Pathogenic,HIGH
+BCAM,NM_005581.5(BCAM):c.711C>A (p.Cys237Ter),BLOOD GROUP--LUTHERAN NULL,Pathogenic,HIGH
+BCAM,NM_005581.5(BCAM):c.361C>T (p.Arg121Ter),BLOOD GROUP--LUTHERAN NULL,Pathogenic,HIGH
+CCBE1,NM_133459.4(CCBE1):c.223T>A (p.Cys75Ser),Hennekam lymphangiectasia-lymphedema syndrome 1|not provided,Pathogenic,HIGH
+CCBE1,NM_133459.4(CCBE1):c.305G>C (p.Cys102Ser),Hennekam lymphangiectasia-lymphedema syndrome 1,Pathogenic,HIGH
+CCBE1,NM_133459.4(CCBE1):c.979G>C (p.Gly327Arg),Hennekam lymphangiectasia-lymphedema syndrome 1,Pathogenic,HIGH
+CCBE1,NM_133459.4(CCBE1):c.683_684insT (p.Leu229fs),Hennekam lymphangiectasia-lymphedema syndrome 1|not provided,Pathogenic,HIGH
+CCBE1,NM_133459.4(CCBE1):c.520T>C (p.Cys174Arg),Hennekam lymphangiectasia-lymphedema syndrome 1|not provided,Pathogenic,HIGH
+CPOX,NM_000097.7(CPOX):c.1277G>A (p.Arg426Gln),Coproporphyria,Pathogenic,HIGH
+CPOX,NM_000097.7(CPOX):c.127_131dup (p.Gly45fs),Coproporphyria|not provided|CPOX-related disorder,Pathogenic,HIGH
+CPOX,NM_000097.7(CPOX):c.489_509del (p.Cys164_Val170del),Coproporphyria,Pathogenic,HIGH
+CPOX,NM_000097.7(CPOX):c.883C>G (p.His295Asp),Coproporphyria,Pathogenic,HIGH
+CPOX,NM_000097.7(CPOX):c.85C>T (p.Gln29Ter),Coproporphyria,Pathogenic,HIGH
+CPOX,NM_000097.7(CPOX):c.623C>T (p.Ser208Phe),Coproporphyria,Pathogenic,HIGH
+CPOX,NM_000097.7(CPOX):c.982C>T (p.Arg328Cys),Coproporphyria,Pathogenic,HIGH
+CPOX,NM_000097.7(CPOX):c.856dup (p.Thr286fs),Coproporphyria,Pathogenic,HIGH
+CPOX,NM_000097.7(CPOX):c.835G>C (p.Gly279Arg),"COPROPORPHYRIA, DIGENIC",Pathogenic,HIGH
+ALDOB,NM_000035.4(ALDOB):c.524C>A (p.Ala175Asp),Hereditary fructosuria|not provided|See cases|Inborn genetic diseases|ALDOB-related disorder,Pathogenic,HIGH
+ALDOB,NM_000035.4(ALDOB):c.865_867del (p.Leu289del),Hereditary fructosuria,Pathogenic,HIGH
+ALDOB,NM_000035.4(ALDOB):c.1005C>G (p.Asn335Lys),Hereditary fructosuria|not provided|ALDOB-related disorder|Glycogen storage disease,Pathogenic,HIGH
+ALDOB,NM_000035.4(ALDOB):c.178C>T (p.Arg60Ter),Hereditary fructosuria|not provided|See cases|Inborn genetic diseases|ALDOB-related disorder|Glycogen storage disease,Pathogenic,HIGH
+ALDOB,NM_000035.4(ALDOB):c.548_553del (p.Leu183_Val184del),Hereditary fructosuria,Pathogenic,HIGH
+PTS,NM_000317.3(PTS):c.46C>T (p.Arg16Cys),"Hyperphenylalaninemia, bh4-deficient, a, due to partial pts deficiency|6-Pyruvoyl-tetrahydrobiopterin synthase deficiency",Likely pathogenic,MEDIUM
+PTS,NM_000317.3(PTS):c.361_374del (p.Val121fs),"Hyperphenylalaninemia, bh4-deficient, a, due to partial pts deficiency",Pathogenic,HIGH
+PTS,NM_000317.3(PTS):c.155A>G (p.Asn52Ser),6-Pyruvoyl-tetrahydrobiopterin synthase deficiency|not provided|PTS-related disorder,Pathogenic,HIGH
+PTS,NM_000317.3(PTS):c.259C>T (p.Pro87Ser),6-Pyruvoyl-tetrahydrobiopterin synthase deficiency|Hyperphenylalaninemia due to tetrahydrobiopterin deficiency|not provided|GTP cyclohydrolase I deficiency with hyperphenylalaninemia,Pathogenic,HIGH
+PTS,NM_000317.3(PTS):c.139A>G (p.Asn47Asp),"Hyperphenylalaninemia, bh4-deficient, a, due to partial pts deficiency|6-Pyruvoyl-tetrahydrobiopterin synthase deficiency",Likely pathogenic,MEDIUM
+PTS,NM_000317.3(PTS):c.286G>A (p.Asp96Asn),6-Pyruvoyl-tetrahydrobiopterin synthase deficiency,Pathogenic,HIGH
+PTS,NM_000317.3(PTS):c.163+696_163+750del,6-Pyruvoyl-tetrahydrobiopterin synthase deficiency,Pathogenic,HIGH
+RNF168,NM_152617.4(RNF168):c.397dup (p.Ala133fs),RIDDLE syndrome,Pathogenic,HIGH
+RNF168,NM_152617.4(RNF168):c.1323_1326del (p.Gln442fs),RIDDLE syndrome|not provided,Likely pathogenic,MEDIUM
+QDPR,NM_000320.3(QDPR):c.366_368dup (p.Thr123dup),Dihydropteridine reductase deficiency,Pathogenic,HIGH
+QDPR,NM_000320.3(QDPR):c.322T>G (p.Trp108Gly),Dihydropteridine reductase deficiency,Pathogenic,HIGH
+QDPR,NM_000320.3(QDPR):c.106T>C (p.Trp36Arg),Dihydropteridine reductase deficiency,Pathogenic,HIGH
+QDPR,NM_000320.3(QDPR):c.437-429A>G,Dihydropteridine reductase deficiency,Pathogenic,HIGH
+QDPR,NM_000320.3(QDPR):c.449A>G (p.Tyr150Cys),Dihydropteridine reductase deficiency|not provided,Pathogenic,HIGH
+QDPR,NM_000320.3(QDPR):c.270G>A (p.Trp90Ter),Dihydropteridine reductase deficiency,Pathogenic,HIGH
+RFX6,NM_173560.4(RFX6):c.380+2T>C,Hypoplastic pancreas-intestinal atresia-hypoplastic gallbalder syndrome,Pathogenic,HIGH
+RFX6,NM_173560.4(RFX6):c.224-12A>G,Hypoplastic pancreas-intestinal atresia-hypoplastic gallbalder syndrome|Diabetes mellitus,Pathogenic,HIGH
+RFX6,NM_173560.4(RFX6):c.672+2T>G,Hypoplastic pancreas-intestinal atresia-hypoplastic gallbalder syndrome,Pathogenic,HIGH
+RFX6,NM_173560.4(RFX6):c.649T>C (p.Ser217Pro),Hypoplastic pancreas-intestinal atresia-hypoplastic gallbalder syndrome,Likely pathogenic,MEDIUM
+RFX6,NM_173560.4(RFX6):c.542G>A (p.Arg181Gln),Hypoplastic pancreas-intestinal atresia-hypoplastic gallbalder syndrome|RFX6-related disorder,Likely pathogenic,MEDIUM
+RFX6,NM_173560.4(RFX6):c.779_780+12del,Hypoplastic pancreas-intestinal atresia-hypoplastic gallbalder syndrome,Pathogenic,HIGH
+RSPH4A,NM_001010892.3(RSPH4A):c.460C>T (p.Gln154Ter),Primary ciliary dyskinesia 11|Primary ciliary dyskinesia|Respiratory ciliopathies including non-CF bronchiectasis,Pathogenic,HIGH
+RSPH4A,NM_001010892.3(RSPH4A):c.325C>T (p.Gln109Ter),Primary ciliary dyskinesia 11|Primary ciliary dyskinesia,Pathogenic,HIGH
+ANK1,NM_000037.4(ANK1):c.5005G>T (p.Glu1669Ter),Hereditary spherocytosis type 1,Pathogenic,HIGH
+ANK1,NM_000037.4(ANK1):c.-73_-72del,"SPHEROCYTOSIS, TYPE 1, AUTOSOMAL RECESSIVE",Pathogenic,HIGH
+ANK1,NM_000037.4(ANK1):c.5163G>A (p.Trp1721Ter),Hereditary spherocytosis type 1|not provided,Pathogenic,HIGH
+ANK1,NM_000037.4(ANK1):c.1519dup (p.Leu507fs),Hereditary spherocytosis type 1|ANK1-related disorder,Pathogenic,HIGH
+ANK1,NM_000037.4(ANK1):c.520_539del (p.Leu174fs),"SPHEROCYTOSIS, TYPE 1, AUTOSOMAL RECESSIVE",Pathogenic,HIGH
+LMBRD1,NM_018368.4(LMBRD1):c.404del (p.Thr135fs),Methylmalonic aciduria and homocystinuria type cblF,Pathogenic,HIGH
+FBN2,NM_001999.4(FBN2):c.3758G>A (p.Cys1253Tyr),Congenital contractural arachnodactyly,Likely pathogenic,MEDIUM
+FBN2,NM_001999.4(FBN2):c.1171G>A (p.Glu391Lys),Congenital contractural arachnodactyly,Pathogenic,HIGH
+FBN2,NM_001999.4(FBN2):c.4346-2A>T,Congenital contractural arachnodactyly,Pathogenic,HIGH
+FBN2,NM_001999.4(FBN2):c.3725-15A>G,Congenital contractural arachnodactyly,Pathogenic,HIGH
+FBN2,NM_001999.4(FBN2):c.3974-26T>G,Congenital contractural arachnodactyly,Pathogenic,HIGH
+FBN2,NM_001999.4(FBN2):c.3343G>C (p.Asp1115His),Congenital contractural arachnodactyly,Pathogenic,HIGH
+FBN2,NM_001999.4(FBN2):c.3425G>T (p.Cys1142Phe),Congenital contractural arachnodactyly,Pathogenic,HIGH
+FBN2,NM_001999.4(FBN2):c.3759T>G (p.Cys1253Trp),Congenital contractural arachnodactyly,Pathogenic,HIGH
+DNAAF2,NM_018139.3(DNAAF2):c.23C>A (p.Ser8Ter),Primary ciliary dyskinesia 10|Kartagener syndrome,Pathogenic,HIGH
+DCAF17,NM_025000.4(DCAF17):c.50del (p.Ala17fs),Woodhouse-Sakati syndrome,Pathogenic,HIGH
+DCAF17,NM_025000.4(DCAF17):c.1422+5G>T,Woodhouse-Sakati syndrome,Pathogenic,HIGH
+DCAF17,NM_025000.4(DCAF17):c.1091+6T>G,Woodhouse-Sakati syndrome,Pathogenic,HIGH
+EYS,NM_001142800.2(EYS):c.2710_2726del (p.Asp904fs),Retinitis pigmentosa 25,Pathogenic,HIGH
+EYS,NM_001142800.1(EYS):c.2260-51191_2992+45990del,Retinitis pigmentosa 25,Pathogenic,HIGH
+EYS,NM_001142800.1(EYS):c.1767-24596_2023+238135del,Retinitis pigmentosa 25,Pathogenic,HIGH
+EYS,NM_001142800.2(EYS):c.5857G>T (p.Glu1953Ter),Retinitis pigmentosa 25|not provided,Pathogenic,HIGH
+LRTOMT,NM_001145308.5(LRTOMT):c.313T>C (p.Trp105Arg),Autosomal recessive nonsyndromic hearing loss 63,Pathogenic,HIGH
+LRTOMT,NM_001145308.5(LRTOMT):c.328G>A (p.Glu110Lys),Autosomal recessive nonsyndromic hearing loss 63,Pathogenic,HIGH
+LRTOMT,NM_001145308.5(LRTOMT):c.333C>G (p.Tyr111Ter),Autosomal recessive nonsyndromic hearing loss 63,Pathogenic,HIGH
+NDUFAF6,NM_152416.4(NDUFAF6):c.296A>G (p.Gln99Arg),"Mitochondrial complex I deficiency, nuclear type 17",Pathogenic,HIGH
+FECH,NM_000140.5(FECH):c.1250T>C (p.Phe417Ser),"Protoporphyria, erythropoietic, 1",Pathogenic,HIGH
+FECH,NM_000140.5(FECH):c.1077+1G>A,"Protoporphyria, erythropoietic, 1",Pathogenic,HIGH
+FECH,NM_000140.5(FECH):c.1085T>G (p.Val362Gly),"Protoporphyria, erythropoietic, 1",Pathogenic,HIGH
+FECH,NM_000140.5(FECH):c.314+2T>G,"Protoporphyria, erythropoietic, 1|not provided",Pathogenic,HIGH
+FECH,NM_000140.5(FECH):c.314+6A>C,"Protoporphyria, erythropoietic, 1",Pathogenic,HIGH
+FECH,NM_000140.3(FECH):c.1078_1137del,"Protoporphyria, erythropoietic, 1|not provided",Pathogenic,HIGH
+FECH,NM_000140.5(FECH):c.194+11A>G,"Protoporphyria, erythropoietic, 1",Pathogenic,HIGH
+FECH,NM_000140.5(FECH):c.580_584del (p.Tyr194fs),"Protoporphyria, erythropoietic, 1|not provided",Pathogenic,HIGH
+SLC29A3,NM_018344.6(SLC29A3):c.1279G>A (p.Gly427Ser),H syndrome|not provided,Pathogenic,HIGH
+SLC29A3,NM_018344.6(SLC29A3):c.1309G>A (p.Gly437Arg),H syndrome|not provided|Pigmentary skin disorders,Pathogenic,HIGH
+SLC29A3,NM_018344.6(SLC29A3):c.1045del (p.Leu349fs),H syndrome|not provided,Pathogenic,HIGH
+SLC29A3,NM_018344.6(SLC29A3):c.940del (p.Tyr314fs),H syndrome,Pathogenic,HIGH
+SLC29A3,NM_018344.6(SLC29A3):c.347T>G (p.Met116Arg),H syndrome|Clear cell carcinoma of kidney,Likely pathogenic,MEDIUM
+SLC29A3,NM_018344.6(SLC29A3):c.1346C>G (p.Thr449Arg),H syndrome|SLC29A3-related disorder,Pathogenic,HIGH
+NDUFAF5,NM_024120.5(NDUFAF5):c.477A>C (p.Leu159Phe),"Mitochondrial complex I deficiency, nuclear type 16",Pathogenic,HIGH
+KNG1,NM_001102416.3(KNG1):c.586C>T (p.Arg196Ter),"KININOGEN DEFICIENCY, TOTAL|High molecular weight kininogen deficiency",Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1315+1G>A,"Phenylketonuria|not provided|Inborn genetic diseases|PAH-related disorder|Pituitary hormone deficiency, combined, 2|Clear cell carcinoma of kidney|Malignant tumor of esophagus",Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1222C>T (p.Arg408Trp),Phenylketonuria|not provided|Inborn genetic diseases|PAH-related disorder|See cases,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.932T>C (p.Leu311Pro),Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.977G>A (p.Trp326Ter),Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.838G>A (p.Glu280Lys),"Phenylketonuria|not provided|Inborn genetic diseases|Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis|PAH-related disorder",Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.331C>T (p.Arg111Ter),Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.782G>A (p.Arg261Gln),Phenylketonuria|not provided|PAH-related disorder,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.754C>T (p.Arg252Trp),"Phenylketonuria|not provided|See cases|Pulmonary hypertension, primary, 1",Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.169-4949_352+1467delinsGGCACCTG,Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1A>G (p.Met1Val),Hyperphenylalaninemia|Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.473G>A (p.Arg158Gln),Phenylketonuria|not provided|PAH-related disorder,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.727C>T (p.Arg243Ter),Phenylketonuria|not provided|Inborn genetic diseases|PAH-related disorder|Hyperphenylalaninemia,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.842C>T (p.Pro281Leu),Phenylketonuria|not provided|Inborn genetic diseases|PAH-related disorder,Likely pathogenic,MEDIUM
+PAH,NM_000277.3(PAH):c.611A>G (p.Tyr204Cys),Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1238G>C (p.Arg413Pro),Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1241A>G (p.Tyr414Cys),Hyperphenylalaninemia|not provided|Phenylketonuria|PAH-related disorder|See cases,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.442-1G>A,Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1068C>G (p.Tyr356Ter),Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.814G>T (p.Gly272Ter),Phenylketonuria|not provided|PAH-related disorder,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1092_1094del (p.Leu365del),Phenylketonuria|not provided,Likely pathogenic,MEDIUM
+PAH,NM_000277.3(PAH):c.818C>T (p.Ser273Phe),Phenylketonuria|not provided,Likely pathogenic,MEDIUM
+PAH,NM_000277.3(PAH):c.842+1G>A,Phenylketonuria|not provided|Hyperphenylalaninemia,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1197A>T (p.Val399=),Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.776C>T (p.Ala259Val),Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.829T>G (p.Tyr277Asp),Phenylketonuria|not provided|PAH-related disorder,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.281TCA[1] (p.Ile95del),Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.117C>G (p.Phe39Leu),Phenylketonuria|not provided|Inborn genetic diseases|PAH-related disorder,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1066-11G>A,Phenylketonuria|not provided|Inborn genetic diseases|Hyperphenylalaninemia,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.143T>C (p.Leu48Ser),Phenylketonuria|not provided|Inborn genetic diseases|PAH-related disorder,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.662A>G (p.Glu221Gly),Phenylketonuria|not provided,Likely pathogenic,MEDIUM
+PAH,NM_000277.3(PAH):c.781C>T (p.Arg261Ter),"Phenylketonuria|not provided|Pulmonary hypertension, primary, 1",Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.165del (p.Phe55fs),Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1223G>A (p.Arg408Gln),Phenylketonuria|not provided|PAH-related disorder|Hyperphenylalaninemia,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.896T>G (p.Phe299Cys),Phenylketonuria|not provided|PAH-related disorder,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.842+2T>A,Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.965C>G (p.Ala322Gly),Mild non-PKU hyperphenylalanemia|not provided|Phenylketonuria|See cases,Likely pathogenic,MEDIUM
+PAH,NM_000277.3(PAH):c.1243G>A (p.Asp415Asn),Hyperphenylalaninemia|not provided|Phenylketonuria|PAH-related disorder|Autosomal recessive PAH-related disorders,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.916A>G (p.Ile306Val),Hyperphenylalaninemia|not provided|Phenylketonuria,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1162G>A (p.Val388Met),Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1092_1106del (p.Leu365_Leu369del),Phenylketonuria|not provided,Likely pathogenic,MEDIUM
+PAH,NM_000277.3(PAH):c.731C>T (p.Pro244Leu),Phenylketonuria|not provided,Likely pathogenic,MEDIUM
+PAH,NM_000277.3(PAH):c.3G>A (p.Met1Ile),Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1066-3C>T,Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.997C>T (p.Leu333Phe),Hyperphenylalaninemia|not provided|Phenylketonuria,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1169A>G (p.Glu390Gly),Hyperphenylalaninemia|Phenylketonuria|not provided|PAH-related disorder|Mild hyperphenylalaninemia,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1076C>G (p.Ser359Ter),Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.293T>C (p.Leu98Ser),Mild non-PKU hyperphenylalanemia|not provided|Phenylketonuria|PAH-related disorder|not specified,Likely pathogenic,MEDIUM
+PAH,NM_000277.3(PAH):c.1139C>T (p.Thr380Met),Hyperphenylalaninemia|not provided|Phenylketonuria|Marfanoid habitus and intellectual disability|6-Pyruvoyl-tetrahydrobiopterin synthase deficiency|PAH-related disorder|Inborn genetic diseases,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.136G>A (p.Gly46Ser),Phenylketonuria|not provided|Inborn genetic diseases,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.140C>T (p.Ala47Val),Hyperphenylalaninemia|not provided|Phenylketonuria,Likely pathogenic,MEDIUM
+PAH,NM_000277.3(PAH):c.527G>T (p.Arg176Leu),Hyperphenylalaninemia|not provided|Phenylketonuria|6-Pyruvoyl-tetrahydrobiopterin synthase deficiency|See cases|Inborn genetic diseases,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.734T>C (p.Val245Ala),Hyperphenylalaninemia|not provided|Phenylketonuria|Inborn genetic diseases,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1065+3A>G,Hyperphenylalaninemia|not provided|Phenylketonuria,Likely pathogenic,MEDIUM
+PAH,NM_000277.3(PAH):c.1129del (p.Tyr377fs),Phenylketonuria|not provided,Pathogenic,HIGH
+PAH,NM_000277.3(PAH):c.1220C>T (p.Pro407Leu),Phenylketonuria|not provided,Likely pathogenic,MEDIUM
+PAH,NM_000277.3(PAH):c.194T>C (p.Ile65Thr),Phenylketonuria|not provided|See cases|PAH-related disorder|Inborn genetic diseases,Pathogenic,HIGH
+PAH,NM_000277.1(PAH):c.913_1199del (p.Ile306Leufs),Phenylketonuria,Pathogenic,HIGH
+PAH,NM_001354304.2(PAH):c.-95-4071_-95-313del,Hyperphenylalaninemia|Phenylketonuria,Likely pathogenic,MEDIUM
+CILK1,NM_014920.5(CILK1):c.815G>A (p.Arg272Gln),Endocrine-cerebro-osteodysplasia syndrome,Pathogenic,HIGH
+F5,NM_000130.5(F5):c.439G>T (p.Glu147Ter),Thrombophilia due to activated protein C resistance,Pathogenic,HIGH
+F5,NM_000130.5(F5):c.3924_3927del (p.Ser1308fs),Factor V deficiency,Pathogenic,HIGH
+F5,NM_000130.5(F5):c.4699_4702dup (p.Ala1568fs),Factor V deficiency,Pathogenic,HIGH
+F5,NM_000130.5(F5):c.1042_1049del (p.Lys348fs),Factor V deficiency,Pathogenic,HIGH
+F5,NM_000130.5(F5):c.2401C>T (p.Gln801Ter),Factor V deficiency,Pathogenic,HIGH
+F5,NM_000130.5(F5):c.3481C>T (p.Arg1161Ter),Factor V deficiency,Pathogenic,HIGH
+F5,NM_000130.5(F5):c.5403_5404insG (p.Ser1802fs),Factor V deficiency,Pathogenic,HIGH
+F5,NM_000130.5(F5):c.6304C>T (p.Arg2102Cys),Factor V deficiency,Likely pathogenic,MEDIUM
+F5,NM_000130.5(F5):c.1160T>C (p.Ile387Thr),Thrombophilia due to activated protein C resistance,Pathogenic,HIGH
+PROC,NM_000312.4(PROC):c.1042C>T (p.Arg348Ter),"Thrombophilia due to protein C deficiency, autosomal dominant|not provided",Pathogenic,HIGH
+PROC,NM_000312.4(PROC):c.1332G>C (p.Trp444Cys),"Thrombophilia due to protein C deficiency, autosomal dominant",Pathogenic,HIGH
+PROC,NM_000312.4(PROC):c.902C>T (p.Ala301Val),"Thrombophilia due to protein C deficiency, autosomal recessive|not provided",Likely pathogenic,MEDIUM
+PROC,NM_000312.4(PROC):c.1027G>A (p.Gly343Ser),"Thrombophilia due to protein C deficiency, autosomal recessive",Pathogenic,HIGH
+PROC,NM_000312.4(PROC):c.866C>T (p.Pro289Leu),"Thrombophilia due to protein C deficiency, autosomal recessive",Pathogenic,HIGH
+PROC,NM_000312.4(PROC):c.1268del (p.Gly423fs),"Thrombophilia due to protein C deficiency, autosomal dominant",Pathogenic,HIGH
+PROC,NM_000312.4(PROC):c.552_553insTT (p.Arg185fs),"Thrombophilia due to protein C deficiency, autosomal dominant",Pathogenic,HIGH
+PROC,NM_000312.4(PROC):c.678G>C (p.Gln226His),"Thrombophilia due to protein C deficiency, autosomal dominant",Pathogenic,HIGH
+PROC,NM_000312.4(PROC):c.1335C>G (p.Ile445Met),"Thrombophilia due to protein C deficiency, autosomal recessive",Pathogenic,HIGH
+PROC,NM_000312.4(PROC):c.1015G>A (p.Val339Met),"Thrombophilia due to protein C deficiency, autosomal dominant|not provided|Inborn genetic diseases",Pathogenic,HIGH
+PROC,NC_000002.12:g.127418425T>C,"Thrombophilia due to protein C deficiency, autosomal dominant",Pathogenic,HIGH
+PROC,NM_000312.4(PROC):c.446A>C (p.His149Pro),"Thrombophilia due to protein C deficiency, autosomal dominant",Pathogenic,HIGH
+FUCA1,NM_000147.5(FUCA1):c.1279C>T (p.Gln427Ter),Fucosidosis,Pathogenic,HIGH
+FUCA1,NM_000147.5(FUCA1):c.1138G>T (p.Glu380Ter),Fucosidosis|not provided,Pathogenic,HIGH
+FUCA1,NM_000147.5(FUCA1):c.969+1G>A,Fucosidosis,Pathogenic,HIGH
+FUCA1,NM_000147.5(FUCA1):c.244C>T (p.Gln82Ter),Fucosidosis,Pathogenic,HIGH
+FUCA1,NM_000147.5(FUCA1):c.1160G>A (p.Trp387Ter),Fucosidosis,Pathogenic,HIGH
+FUCA1,NM_000147.5(FUCA1):c.648C>A (p.Tyr216Ter),Fucosidosis,Pathogenic,HIGH
+FUCA1,NM_000147.5(FUCA1):c.437del (p.Pro146fs),Fucosidosis,Pathogenic,HIGH
+FUCA1,NM_000147.5(FUCA1):c.1229T>G (p.Leu410Arg),Fucosidosis,Likely pathogenic,MEDIUM
+ADAMTSL2,NM_014694.4(ADAMTSL2):c.440C>T (p.Pro147Leu),Geleophysic dysplasia 1,Pathogenic,HIGH
+ADAMTSL2,NM_014694.4(ADAMTSL2):c.338G>A (p.Arg113His),"Geleophysic dysplasia 1|Lethal short-limb skeletal dysplasia, Al Gazali type",Likely pathogenic,MEDIUM
+ADAMTSL2,NM_014694.4(ADAMTSL2):c.2431G>A (p.Gly811Arg),Geleophysic dysplasia 1,Pathogenic,HIGH
+ADAMTSL2,NM_014694.4(ADAMTSL2):c.2586G>A (p.Trp862Ter),Geleophysic dysplasia 1,Pathogenic,HIGH
+GALNS,NM_000512.5(GALNS):c.612C>G (p.Asn204Lys),"Mucopolysaccharidosis, MPS-IV-A",Likely pathogenic,MEDIUM
+GALNS,NM_000512.5(GALNS):c.1417C>T (p.Gln473Ter),"Mucopolysaccharidosis, MPS-IV-A",Pathogenic,HIGH
+GALNS,NM_000512.5(GALNS):c.901G>T (p.Gly301Cys),"Mucopolysaccharidosis, MPS-IV-A|Morquio syndrome|not provided",Pathogenic,HIGH
+GALNS,NM_000512.5(GALNS):c.485C>T (p.Ser162Phe),"Mucopolysaccharidosis, MPS-IV-A|not provided",Pathogenic,HIGH
+GALNS,NM_000512.5(GALNS):c.689G>A (p.Trp230Ter),"Mucopolysaccharidosis, MPS-IV-A|Morquio syndrome",Pathogenic,HIGH
+ZFP57,NM_001109809.2(ZFP57):c.783C>A (p.Cys261Ter),"Diabetes mellitus, transient neonatal, 1",Pathogenic,HIGH
+ZFP57,NM_001109809.5(ZFP57):c.317_318del (p.Glu106fs),"Diabetes mellitus, transient neonatal, 1",Pathogenic,HIGH
+ZFP57,NM_001109809.5(ZFP57):c.1383del (p.Tyr462fs),"Diabetes mellitus, transient neonatal, 1",Pathogenic,HIGH
+ZFP57,NM_001109809.5(ZFP57):c.1372C>G (p.His458Asp),"Diabetes mellitus, transient neonatal, 1",Pathogenic,HIGH
+ZFP57,NM_001109809.5(ZFP57):c.743G>A (p.Arg248His),"Diabetes mellitus, transient neonatal, 1",Pathogenic,HIGH
+ZFP57,NM_001109809.5(ZFP57):c.829C>A (p.His277Asn),"Diabetes mellitus, transient neonatal, 1",Pathogenic,HIGH
+ZFP57,NM_001109809.5(ZFP57):c.898_905del (p.Gly299_Thr300insTer),"Diabetes mellitus, transient neonatal, 1",Pathogenic,HIGH
+ZNF469,NM_001367624.2(ZNF469):c.6027del (p.Gly2011fs),Brittle cornea syndrome 1,Pathogenic,HIGH
+ZNF469,NM_001367624.2(ZNF469):c.9615del (p.Gln3206fs),Brittle cornea syndrome 1,Pathogenic,HIGH
+RBM28,NM_018077.3(RBM28):c.1052T>C (p.Leu351Pro),ANE syndrome,Pathogenic,HIGH
+TMEM43,NM_024334.3(TMEM43):c.1073C>T (p.Ser358Leu),Arrhythmogenic right ventricular dysplasia 5|Arrhythmogenic right ventricular cardiomyopathy|not provided|Familial isolated arrhythmogenic right ventricular dysplasia|Cardiovascular phenotype|Cardiomyopathy|Hypertrophic cardiomyopathy|Primary dilated cardiomyopathy,Pathogenic,HIGH
+IYD,NM_203395.3(IYD):c.301C>T (p.Arg101Trp),Iodotyrosine deiodination defect|IYD-related disorder,Likely pathogenic,MEDIUM
+IYD,NM_203395.3(IYD):c.347T>C (p.Ile116Thr),Iodotyrosine deiodination defect,Likely pathogenic,MEDIUM
+CC2D2A,NM_001378615.1(CC2D2A):c.2338+1G>C,Joubert syndrome 9,Pathogenic,HIGH
+CC2D2A,NM_001378615.1(CC2D2A):c.1762C>T (p.Gln588Ter),"Meckel syndrome, type 6|Joubert syndrome;Meckel-Gruber syndrome|Meckel syndrome, type 6;Retinitis pigmentosa 93;COACH syndrome 2;Joubert syndrome 9|not provided",Pathogenic,HIGH
+CC2D2A,NM_001378615.1(CC2D2A):c.2848C>T (p.Arg950Ter),"Joubert syndrome 9|not provided|Inborn genetic diseases|Joubert syndrome;Meckel-Gruber syndrome|CC2D2A-related disorder|Meckel syndrome, type 6;Retinitis pigmentosa 93;COACH syndrome 2;Joubert syndrome 9",Pathogenic,HIGH
+CC2D2A,NM_001378615.1(CC2D2A):c.3145C>T (p.Arg1049Ter),"COACH syndrome 2|Joubert syndrome 9/15, digenic|Joubert syndrome;Meckel-Gruber syndrome|not provided|See cases|Meckel syndrome, type 6;Retinitis pigmentosa 93;COACH syndrome 2;Joubert syndrome 9|Meckel syndrome, type 6;COACH syndrome 2;Joubert syndrome 9|Inborn genetic diseases|Autosomal recessive CC2D2A-related disorders",Pathogenic,HIGH
+ZFYVE26,NM_015346.4(ZFYVE26):c.4312C>T (p.Arg1438Ter),Hereditary spastic paraplegia 15|Spastic paraplegia|not provided,Pathogenic,HIGH
+ZFYVE26,NM_015346.4(ZFYVE26):c.5485-1G>A,Hereditary spastic paraplegia 15,Pathogenic,HIGH
+ZFYVE26,NM_015346.4(ZFYVE26):c.6702_6771del (p.Trp2234fs),Hereditary spastic paraplegia 15,Pathogenic,HIGH
+ZFYVE26,NM_015346.4(ZFYVE26):c.1477C>T (p.Gln493Ter),Hereditary spastic paraplegia 15,Pathogenic,HIGH
+TRAPPC9,NM_001160372.4(TRAPPC9):c.1129C>T (p.Arg377Ter),"Intellectual disability, autosomal recessive 13|Abnormality of the nervous system|not provided",Pathogenic,HIGH
+TRAPPC9,NM_001160372.4(TRAPPC9):c.2019_2022del (p.Leu674fs),"Intellectual disability, autosomal recessive 13|not provided",Pathogenic,HIGH
+MMADHC,NM_015702.3(MMADHC):c.545C>A (p.Thr182Asn),Homocystinuria-megaloblastic anemia cblD type,Pathogenic,HIGH
+MMADHC,NM_015702.3(MMADHC):c.57_64del (p.Cys19_Ser20insTer),Methylmalonic aciduria and homocystinuria type cblD|Isolated methylmalonic aciduria cblD type,Pathogenic,HIGH
+MMADHC,NM_015702.3(MMADHC):c.160C>T (p.Arg54Ter),Methylmalonic aciduria and homocystinuria type cblD|Isolated methylmalonic aciduria cblD type,Pathogenic,HIGH
+MMADHC,NM_015702.3(MMADHC):c.307_324dup (p.Leu103_Ser108dup),Methylmalonic aciduria and homocystinuria type cblD|Isolated methylmalonic aciduria cblD type,Pathogenic,HIGH
+MMADHC,NM_015702.3(MMADHC):c.419dup (p.Tyr140Ter),Methylmalonic aciduria and homocystinuria type cblD|not provided,Pathogenic,HIGH
+MMADHC,NM_015702.3(MMADHC):c.696+3_696+6del,Methylmalonic aciduria and homocystinuria type cblD,Likely pathogenic,MEDIUM
+SACK1H,NM_198488.5(SACK1H):c.973C>T (p.Arg325Ter),"Amelogenesis imperfecta, hypocalcification type|Amelogenesis imperfecta, type 3A",Pathogenic,HIGH
+SACK1H,NM_198488.5(SACK1H):c.1192C>T (p.Gln398Ter),"Amelogenesis imperfecta, type 3A|FAM83H-related disorder",Pathogenic,HIGH
+SACK1H,NM_198488.5(SACK1H):c.1243G>T (p.Glu415Ter),"Amelogenesis imperfecta, type 3A",Pathogenic,HIGH
+SACK1H,NM_198488.5(SACK1H):c.891T>A (p.Tyr297Ter),"Amelogenesis imperfecta, type 3A",Pathogenic,HIGH
+SACK1H,NM_198488.5(SACK1H):c.1380G>A (p.Trp460Ter),"Amelogenesis imperfecta, type 3A",Pathogenic,HIGH
+SACK1H,NM_198488.5(SACK1H):c.1408C>T (p.Gln470Ter),"Amelogenesis imperfecta, hypocalcification type|Amelogenesis imperfecta, type 3A",Pathogenic,HIGH
+SACK1H,NM_198488.5(SACK1H):c.860C>A (p.Ser287Ter),"Amelogenesis imperfecta, type 3A",Pathogenic,HIGH
+SACK1H,NM_198488.5(SACK1H):c.2080G>T (p.Glu694Ter),"Amelogenesis imperfecta, type 3A",Pathogenic,HIGH
+SACK1H,NM_198488.5(SACK1H):c.1872_1873del (p.Leu625fs),"Amelogenesis imperfecta, type 3A",Pathogenic,HIGH
+SACK1H,NM_198488.5(SACK1H):c.923_924del (p.Leu308fs),"Amelogenesis imperfecta, type 3A",Pathogenic,HIGH
+SACK1H,NM_198488.5(SACK1H):c.1379G>A (p.Trp460Ter),"Amelogenesis imperfecta, hypocalcification type|Amelogenesis imperfecta, type 3A",Pathogenic,HIGH
+ISCU,NM_213595.4(ISCU):c.149G>A (p.Gly50Glu),Hereditary myopathy with lactic acidosis due to ISCU deficiency|not provided,Likely pathogenic,MEDIUM
+SLC16A12,NM_213606.4(SLC16A12):c.733C>T (p.Gln245Ter),Juvenile cataract-microcornea-renal glucosuria syndrome,Pathogenic,HIGH
+NDUFAF4,NM_014165.4(NDUFAF4):c.194T>C (p.Leu65Pro),Mitochondrial complex I deficiency,Pathogenic,HIGH
+NKX2-6,NM_001136271.3(NKX2-6):c.451T>C (p.Phe151Leu),Persistent truncus arteriosus|Conotruncal heart malformations,Likely pathogenic,MEDIUM
+LMF1,NM_022773.4(LMF1):c.1317C>G (p.Tyr439Ter),"Lipase deficiency, combined|not provided",Pathogenic,HIGH
+APC,NM_000038.5(APC):c.730_731delAG,Familial adenomatous polyposis 1|Hereditary cancer-predisposing syndrome,Pathogenic,HIGH
+APC,NM_000038.6(APC):c.1369del (p.Ser457fs),Familial adenomatous polyposis 1|Hereditary cancer-predisposing syndrome,Pathogenic,HIGH
+APC,NM_000038.6(APC):c.1500T>G (p.Tyr500Ter),Familial adenomatous polyposis 1|not provided|Hereditary cancer-predisposing syndrome,Pathogenic,HIGH
+APC,NM_000038.6(APC):c.839C>G (p.Ser280Ter),Gardner syndrome|Familial multiple polyposis syndrome|Familial adenomatous polyposis 1,Pathogenic,HIGH
+APC,NM_000038.6(APC):c.2138C>G (p.Ser713Ter),Gardner syndrome|Hereditary cancer-predisposing syndrome|Familial adenomatous polyposis 1,Pathogenic,HIGH
+APC,NM_000038.6(APC):c.4012C>T (p.Gln1338Ter),Carcinoma of colon|Familial adenomatous polyposis 1,Pathogenic,HIGH
+APC,NM_000038.6(APC):c.3199C>T (p.Gln1067Ter),Gastric cancer|Hereditary cancer-predisposing syndrome|Familial adenomatous polyposis 1,Pathogenic,HIGH
