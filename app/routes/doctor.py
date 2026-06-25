@@ -90,10 +90,10 @@ def update_appointment(appointment_id):
 
         if status == 'confirmed':
             create_notification(appointment[0], 'patient', f"Dr. {doctor[0]} has confirmed your appointment!", '/my_appointments')
-            #send_appointment_confirmed(patient_details[1], patient_details[0], doctor[0], appt_details[0], appt_details[1])
+            send_appointment_confirmed(patient_details[1], patient_details[0], doctor[0], appt_details[0], appt_details[1])
         elif status == 'cancelled':
             create_notification(appointment[0], 'patient', f"Dr. {doctor[0]} has cancelled your appointment.", '/my_appointments')
-            #send_appointment_cancelled(patient_details[1], patient_details[0], doctor[0], appt_details[0], appt_details[1])
+            send_appointment_cancelled(patient_details[1], patient_details[0], doctor[0], appt_details[0], appt_details[1])
         cursor.close()
         connection.close()
         return redirect('/doctor_appointments')
